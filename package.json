@@ -1,27 +1,26 @@
 {
-  "name": "minify-registry-metadata",
-  "version": "1.0.1",
+  "name": "@npm/minify-registry-metadata",
   "description": "minimal regsitry packuments. :corgi:",
-  "main": "index.js",
-  "scripts": {
-    "test": "tape test/*.js"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/soldair/minify-registry-metadata.git"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "version": "1.0.2",
   "bugs": {
     "url": "https://github.com/soldair/minify-registry-metadata/issues"
   },
-  "homepage": "https://github.com/soldair/minify-registry-metadata#readme",
   "devDependencies": {
     "changes-stream": "^2.2.0",
     "concurrent-couch-follower": "^1.2.0",
     "normalize-registry-metadata": "^1.1.2",
     "request": "^2.80.0",
     "tape": "^4.6.3"
+  },
+  "homepage": "https://github.com/soldair/minify-registry-metadata#readme",
+  "keywords": [],
+  "license": "ISC",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/soldair/minify-registry-metadata.git"
+  },
+  "scripts": {
+    "test": "tape test/*.js"
   }
 }
