@@ -1,7 +1,7 @@
 {
   "name": "@npm/minify-registry-metadata",
   "description": "minimal regsitry packuments. :corgi:",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "devDependencies": {
     "changes-stream": "^2.2.0",
     "concurrent-couch-follower": "^1.2.0",
