@@ -1,41 +1,60 @@
-"use strict"; 
+'use strict'
 
 // take metadata and remove anything the cli doesnt need to install it.
-const keep = ['versions','name','dist-tags']
-const versionKeep = ['name','version','dependencies','optionalDependencies','devDependencies','bundleDependencies','bundledDependencies','peerDependencies','bin','_hasShrinkwrap','directories','dist','engines','deprecated','peerDependenciesMeta']
+const keep = [
+  'versions',
+  'name',
+  'dist-tags'
+]
 
-module.exports = function(doc){
+const versionKeep = [
+  'name',
+  'version',
+  'dependencies',
+  'optionalDependencies',
+  'devDependencies',
+  'bundleDependencies',
+  'bundledDependencies',
+  'peerDependencies',
+  'bin',
+  '_hasShrinkwrap',
+  'directories',
+  'dist',
+  'engines',
+  'deprecated',
+  'peerDependenciesMeta'
+]
+
+module.exports = function (doc) {
   // not registry metadata
-  if(!doc) return false;
+  if (!doc) return false
 
-  //
   var out = {}
 
-  for(let i = 0;i < keep.length;++i) {
-    if(doc[keep[i]] !== undefined) {
+  for (let i = 0; i < keep.length; ++i) {
+    if (doc[keep[i]] !== undefined) {
       out[keep[i]] = doc[keep[i]]
     }
   }
 
   // versions.
-  var versions = Object.keys(doc.versions||{})
+  var versions = Object.keys(doc.versions || {})
   var smallVersions = {}
-  versions.forEach(function(v){
+  versions.forEach(function (v) {
     var version = doc.versions[v]
     var smallVersion = {}
-    for(let i = 0;i < versionKeep.length;++i) {
-      if(version[versionKeep[i]] !== undefined){
+    for (let i = 0; i < versionKeep.length; ++i) {
+      if (version[versionKeep[i]] !== undefined) {
         smallVersion[versionKeep[i]] = version[versionKeep[i]]
       }
     }
     smallVersions[v] = smallVersion
   })
 
-  out.versions = smallVersions;
+  out.versions = smallVersions
 
-  var mtime = (doc.time||{}).modified
-  if(mtime) out.modified = mtime
+  var mtime = (doc.time || {}).modified
+  if (mtime) out.modified = mtime
 
   return out
 }
-
