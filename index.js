@@ -22,7 +22,8 @@ const versionKeep = [
   'dist',
   'engines',
   'deprecated',
-  'peerDependenciesMeta'
+  'peerDependenciesMeta',
+  'funding'
 ]
 
 module.exports = function (doc) {
