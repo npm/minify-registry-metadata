@@ -1,4 +1,4 @@
-{
+module.exports={
   "_id": "tap",
   "_rev": "448-070ce2407c126507f35d3256848585d9",
   "name": "tap",
