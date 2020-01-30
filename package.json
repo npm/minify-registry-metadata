@@ -7,7 +7,7 @@
     "concurrent-couch-follower": "^1.2.0",
     "normalize-registry-metadata": "^1.1.2",
     "request": "^2.80.0",
-    "tap": "^14.6.1"
+    "tap": "^14.10.6"
   },
   "license": "ISC",
   "main": "index.js",
