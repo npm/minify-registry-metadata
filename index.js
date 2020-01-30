@@ -23,7 +23,9 @@ const versionKeep = [
   'engines',
   'deprecated',
   'peerDependenciesMeta',
-  'funding'
+  'funding',
+  'os',
+  'cpu'
 ]
 
 module.exports = function (doc) {
@@ -48,6 +50,12 @@ module.exports = function (doc) {
       if (version[versionKeep[i]] !== undefined) {
         smallVersion[versionKeep[i]] = version[versionKeep[i]]
       }
+    }
+    if (version.scripts && (
+        version.scripts.preinstall ||
+        version.scripts.install ||
+        version.scripts.postinstall)) {
+      smallVersion.hasInstallScript = true
     }
     smallVersions[v] = smallVersion
   })
