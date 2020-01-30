@@ -1,4 +1,4 @@
-{
+module.exports={
   "_id": "fsevents",
   "_rev": "174-f8573c6fe08368f71e418c160589afd8",
   "name": "fsevents",

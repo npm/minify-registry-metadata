@@ -16,10 +16,13 @@
     "url": "git+https://github.com/npm/minify-registry-metadata.git"
   },
   "scripts": {
-    "test": "tap",
-    "snap": "tap"
+    "test": "tap test/fixtures/*.js",
+    "snap": "tap test/fixtures/*.js"
   },
   "tap": {
+    "node-arg": [
+      "test/test.js"
+    ],
     "check-coverage": true
   }
 }
