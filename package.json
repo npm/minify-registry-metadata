@@ -1,5 +1,5 @@
 {
-  "name": "@npm/minify-registry-metadata",
+  "name": "minify-registry-metadata",
   "description": "minimal regsitry packuments. :corgi:",
   "version": "1.1.0",
   "devDependencies": {
