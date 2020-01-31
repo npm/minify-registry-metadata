@@ -32,7 +32,7 @@ module.exports = function (doc) {
   // not registry metadata
   if (!doc) return false
 
-  var out = {}
+  const out = {}
 
   for (let i = 0; i < keep.length; ++i) {
     if (doc[keep[i]] !== undefined) {
@@ -41,11 +41,11 @@ module.exports = function (doc) {
   }
 
   // versions.
-  var versions = Object.keys(doc.versions || {})
-  var smallVersions = {}
+  const versions = Object.keys(doc.versions || {})
+  const smallVersions = {}
   versions.forEach(function (v) {
-    var version = doc.versions[v]
-    var smallVersion = {}
+    const version = doc.versions[v]
+    const smallVersion = {}
     for (let i = 0; i < versionKeep.length; ++i) {
       if (version[versionKeep[i]] !== undefined) {
         smallVersion[versionKeep[i]] = version[versionKeep[i]]
@@ -62,7 +62,7 @@ module.exports = function (doc) {
 
   out.versions = smallVersions
 
-  var mtime = (doc.time || {}).modified
+  const mtime = (doc.time || {}).modified
   if (mtime) out.modified = mtime
 
   return out
