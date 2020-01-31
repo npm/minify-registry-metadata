@@ -24,5 +24,8 @@
       "test/test.js"
     ],
     "check-coverage": true
-  }
+  },
+  "files": [
+    "index.js"
+  ]
 }
