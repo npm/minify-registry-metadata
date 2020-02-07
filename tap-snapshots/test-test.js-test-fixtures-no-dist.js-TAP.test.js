@@ -6,9 +6,7 @@
  */
 'use strict'
 exports[`test/test.js test/fixtures/no-dist.js TAP > corgi 1`] = `
-Object {
-  "versions": Object {},
-}
+Object {}
 `
 
 exports[`test/test.js test/fixtures/no-dist.js TAP > object diff 1`] = `

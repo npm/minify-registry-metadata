@@ -2,20 +2,19 @@
 
 // take metadata and remove anything the cli doesnt need to install it.
 const keep = [
-  'versions',
   'name',
   'dist-tags'
 ]
 
-const versionKeep = [
+const manifestKeep = [
   'name',
   'version',
   'dependencies',
   'optionalDependencies',
   'devDependencies',
   'bundleDependencies',
-  'bundledDependencies',
   'peerDependencies',
+  'acceptDependencies',
   'bin',
   '_hasShrinkwrap',
   'directories',
@@ -28,9 +27,58 @@ const versionKeep = [
   'cpu'
 ]
 
-module.exports = function (doc) {
+const manifestSets = [
+  'versions',
+  'policyRestrictions',
+  'stagedVersions'
+]
+
+const minifyManifests = (doc, out, type) => {
+  if (!doc[type])
+    return
+
+  // policyRestrictions and staging have other metadata, and a versions obj
+  if (doc[type].versions) {
+    out[type] = {}
+    Object.keys(doc[type]).filter(k => k !== 'versions').forEach(k => {
+      out[type][k] = doc[type][k]
+    })
+    // ok, now minify the actual manifests on that object.
+    return minifyManifests(doc[type], out[type], 'versions')
+  }
+
+  // minify all the manifests
+  const smallVersions = {}
+  Object.keys(doc[type]).forEach(v => {
+    const manifest = doc[type][v]
+    const smallVersion = {}
+    if (manifest.bundledDependencies && !manifest.bundleDependencies) {
+      manifest.bundleDependencies = manifest.bundledDependencies
+    }
+    manifestKeep.forEach(field => {
+      if (manifest[field] !== undefined) {
+        smallVersion[field] = manifest[field]
+      }
+    })
+
+    if (manifest.scripts && (
+        manifest.scripts.preinstall ||
+        manifest.scripts.install ||
+        manifest.scripts.postinstall)) {
+      smallVersion.hasInstallScript = true
+    }
+
+    smallVersions[v] = smallVersion
+  })
+
+  out[type] = smallVersions
+}
+
+module.exports = doc => {
   // not registry metadata
-  if (!doc) return false
+  if (!doc) {
+    return false
+  }
 
   const out = {}
 
@@ -40,30 +88,12 @@ module.exports = function (doc) {
     }
   }
 
-  // versions.
-  const versions = Object.keys(doc.versions || {})
-  const smallVersions = {}
-  versions.forEach(function (v) {
-    const version = doc.versions[v]
-    const smallVersion = {}
-    for (let i = 0; i < versionKeep.length; ++i) {
-      if (version[versionKeep[i]] !== undefined) {
-        smallVersion[versionKeep[i]] = version[versionKeep[i]]
-      }
-    }
-    if (version.scripts && (
-        version.scripts.preinstall ||
-        version.scripts.install ||
-        version.scripts.postinstall)) {
-      smallVersion.hasInstallScript = true
-    }
-    smallVersions[v] = smallVersion
-  })
-
-  out.versions = smallVersions
+  manifestSets.forEach(type => minifyManifests(doc, out, type))
 
   const mtime = (doc.time || {}).modified
-  if (mtime) out.modified = mtime
+  if (mtime) {
+    out.modified = mtime
+  }
 
   return out
 }

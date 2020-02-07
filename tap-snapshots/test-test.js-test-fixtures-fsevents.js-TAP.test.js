@@ -1472,6 +1472,7 @@ Object {
   "author": 41,
   "binary": 30,
   "bugs": 57,
+  "bundledDependencies": 1,
   "contributors": 16,
   "description": 57,
   "gitHead": 50,
