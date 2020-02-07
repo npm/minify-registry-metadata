@@ -17,7 +17,6 @@ Object {
   "versions": Object {
     "0.1.1": Object {
       "deprecated": "Way too old",
-      "directories": Object {},
       "dist": Object {
         "shasum": "89032d234a07a6f8b280bf825409c400d6b73858",
         "tarball": "https://registry.npmjs.org/fsevents/-/fsevents-0.1.1.tgz",
@@ -31,7 +30,6 @@ Object {
     },
     "0.1.3": Object {
       "deprecated": "Way too old",
-      "directories": Object {},
       "dist": Object {
         "shasum": "1def205d663e595764d38a879040e01edef1084d",
         "tarball": "https://registry.npmjs.org/fsevents/-/fsevents-0.1.3.tgz",
@@ -45,7 +43,6 @@ Object {
     },
     "0.1.4": Object {
       "deprecated": "Way too old",
-      "directories": Object {},
       "dist": Object {
         "shasum": "22b9b084d51962414f4d1cc473217f6d3943989d",
         "tarball": "https://registry.npmjs.org/fsevents/-/fsevents-0.1.4.tgz",
@@ -59,7 +56,6 @@ Object {
     },
     "0.1.5": Object {
       "deprecated": "Way too old",
-      "directories": Object {},
       "dist": Object {
         "shasum": "78d27ffb17ef96dcc66e8c2151e91416c31f7eff",
         "tarball": "https://registry.npmjs.org/fsevents/-/fsevents-0.1.5.tgz",
@@ -73,7 +69,6 @@ Object {
     },
     "0.1.6": Object {
       "deprecated": "Way too old",
-      "directories": Object {},
       "dist": Object {
         "shasum": "98bd0b0876548f80da4cb1069fb6c23f97a7d9a9",
         "tarball": "https://registry.npmjs.org/fsevents/-/fsevents-0.1.6.tgz",
@@ -93,7 +88,6 @@ Object {
       "devDependencies": Object {
         "tap": "~0.4.8",
       },
-      "directories": Object {},
       "dist": Object {
         "shasum": "1de161da042818f45bfbe11a853da8e5c6ca5d83",
         "tarball": "https://registry.npmjs.org/fsevents/-/fsevents-0.2.0.tgz",
@@ -116,7 +110,6 @@ Object {
       "devDependencies": Object {
         "tap": "~0.4.8",
       },
-      "directories": Object {},
       "dist": Object {
         "shasum": "90723a3d0bbab877b62d0a78db633ef2688d8a81",
         "tarball": "https://registry.npmjs.org/fsevents/-/fsevents-0.3.0.tgz",
@@ -139,7 +132,6 @@ Object {
       "devDependencies": Object {
         "tap": "~0.4.8",
       },
-      "directories": Object {},
       "dist": Object {
         "shasum": "47d60e5c28887055d7388833ea5d54d4882c8f6f",
         "tarball": "https://registry.npmjs.org/fsevents/-/fsevents-0.3.1.tgz",
@@ -162,7 +154,6 @@ Object {
       "devDependencies": Object {
         "tap": "~0.4.8",
       },
-      "directories": Object {},
       "dist": Object {
         "shasum": "83b83d81b167c6e745a2f1e6d82302eedc8011ec",
         "tarball": "https://registry.npmjs.org/fsevents/-/fsevents-0.3.2.tgz",
@@ -185,7 +176,6 @@ Object {
       "devDependencies": Object {
         "tap": "~0.4.8",
       },
-      "directories": Object {},
       "dist": Object {
         "shasum": "db62f97d9bfb8defd4ae7718912d29fe4e766acf",
         "tarball": "https://registry.npmjs.org/fsevents/-/fsevents-0.3.3.tgz",
@@ -208,7 +198,6 @@ Object {
       "devDependencies": Object {
         "tap": "~0.4.8",
       },
-      "directories": Object {},
       "dist": Object {
         "shasum": "cd9769e92f803578f2ccc4a3a4da2b8556823d02",
         "tarball": "https://registry.npmjs.org/fsevents/-/fsevents-0.3.4.tgz",
@@ -231,7 +220,6 @@ Object {
       "devDependencies": Object {
         "tap": "~0.4.8",
       },
-      "directories": Object {},
       "dist": Object {
         "shasum": "d0938147614066c0e1297647b3b8ab5a4baf4688",
         "tarball": "https://registry.npmjs.org/fsevents/-/fsevents-0.3.5.tgz",
@@ -254,7 +242,6 @@ Object {
       "devDependencies": Object {
         "tap": "~0.4.8",
       },
-      "directories": Object {},
       "dist": Object {
         "shasum": "03f029087b5388c756ef0d6707cf3656dba95c84",
         "tarball": "https://registry.npmjs.org/fsevents/-/fsevents-0.3.6.tgz",
@@ -277,7 +264,6 @@ Object {
       "devDependencies": Object {
         "tap": "~0.4.8",
       },
-      "directories": Object {},
       "dist": Object {
         "shasum": "7760c08570126c3d17a10489c0ad5ac515fbaa6e",
         "tarball": "https://registry.npmjs.org/fsevents/-/fsevents-0.3.7.tgz",
@@ -300,7 +286,6 @@ Object {
       "devDependencies": Object {
         "tap": "~0.4.8",
       },
-      "directories": Object {},
       "dist": Object {
         "shasum": "9992f1032c925c829554d0d59801dca0313a5356",
         "tarball": "https://registry.npmjs.org/fsevents/-/fsevents-0.3.8.tgz",
@@ -327,7 +312,6 @@ Object {
       "devDependencies": Object {
         "tap": "~0.4.8",
       },
-      "directories": Object {},
       "dist": Object {
         "shasum": "9353c291338e0d064939b479f71e027e8a6be834",
         "tarball": "https://registry.npmjs.org/fsevents/-/fsevents-1.0.0.tgz",
@@ -354,7 +338,6 @@ Object {
       "devDependencies": Object {
         "tap": "~0.4.8",
       },
-      "directories": Object {},
       "dist": Object {
         "shasum": "0325728eb0df20934f26573596af4036124768cf",
         "tarball": "https://registry.npmjs.org/fsevents/-/fsevents-1.0.1.tgz",
@@ -381,7 +364,6 @@ Object {
       "devDependencies": Object {
         "tap": "~0.4.8",
       },
-      "directories": Object {},
       "dist": Object {
         "shasum": "cc663f84eeddce06c3dfdaccf800544c6468cd6d",
         "tarball": "https://registry.npmjs.org/fsevents/-/fsevents-1.0.10.tgz",
@@ -408,7 +390,6 @@ Object {
       "devDependencies": Object {
         "tap": "~0.4.8",
       },
-      "directories": Object {},
       "dist": Object {
         "shasum": "303d4051e411a95a7ad187e6f8ccffe936ca78ac",
         "tarball": "https://registry.npmjs.org/fsevents/-/fsevents-1.0.11.tgz",
@@ -435,7 +416,6 @@ Object {
       "devDependencies": Object {
         "tap": "~0.4.8",
       },
-      "directories": Object {},
       "dist": Object {
         "shasum": "7929e211c0b31f37f2f0fc346f315e403d7ed33b",
         "tarball": "https://registry.npmjs.org/fsevents/-/fsevents-1.0.12.tgz",
@@ -462,7 +442,6 @@ Object {
       "devDependencies": Object {
         "tap": "~0.4.8",
       },
-      "directories": Object {},
       "dist": Object {
         "shasum": "558e8cc38643d8ef40fe45158486d0d25758eee4",
         "tarball": "https://registry.npmjs.org/fsevents/-/fsevents-1.0.14.tgz",
@@ -489,7 +468,6 @@ Object {
       "devDependencies": Object {
         "tap": "~0.4.8",
       },
-      "directories": Object {},
       "dist": Object {
         "shasum": "fa63f590f3c2ad91275e4972a6cea545fb0aae44",
         "tarball": "https://registry.npmjs.org/fsevents/-/fsevents-1.0.15.tgz",
@@ -516,7 +494,6 @@ Object {
       "devDependencies": Object {
         "tap": "~0.4.8",
       },
-      "directories": Object {},
       "dist": Object {
         "shasum": "8537f3f12272678765b4fd6528c0f1f66f8f4558",
         "tarball": "https://registry.npmjs.org/fsevents/-/fsevents-1.0.17.tgz",
@@ -543,7 +520,6 @@ Object {
       "devDependencies": Object {
         "tap": "~0.4.8",
       },
-      "directories": Object {},
       "dist": Object {
         "shasum": "76b622b6aa11ad4aa645b556ad0826d8751e43ce",
         "tarball": "https://registry.npmjs.org/fsevents/-/fsevents-1.0.18-0.tgz",
@@ -567,7 +543,6 @@ Object {
       "devDependencies": Object {
         "tap": "~0.4.8",
       },
-      "directories": Object {},
       "dist": Object {
         "shasum": "c846a4020ae6da07970581cd734d221345710e89",
         "tarball": "https://registry.npmjs.org/fsevents/-/fsevents-1.0.2.tgz",
@@ -594,7 +569,6 @@ Object {
       "devDependencies": Object {
         "tap": "~0.4.8",
       },
-      "directories": Object {},
       "dist": Object {
         "shasum": "ae9e5c44c2c56cbbe8726c6b0c55f032bdb2fe04",
         "tarball": "https://registry.npmjs.org/fsevents/-/fsevents-1.0.3.tgz",
@@ -621,7 +595,6 @@ Object {
       "devDependencies": Object {
         "tap": "~0.4.8",
       },
-      "directories": Object {},
       "dist": Object {
         "shasum": "02987a93c84d5ef7137f0a1735475ab4362ecd7a",
         "tarball": "https://registry.npmjs.org/fsevents/-/fsevents-1.0.4.tgz",
@@ -648,7 +621,6 @@ Object {
       "devDependencies": Object {
         "tap": "~0.4.8",
       },
-      "directories": Object {},
       "dist": Object {
         "shasum": "91228f83f8fe7aff52ce1099c31b862a23c64805",
         "tarball": "https://registry.npmjs.org/fsevents/-/fsevents-1.0.5.tgz",
@@ -675,7 +647,6 @@ Object {
       "devDependencies": Object {
         "tap": "~0.4.8",
       },
-      "directories": Object {},
       "dist": Object {
         "shasum": "9e85fc94ae838e702c5eb032fd99c7ad634f41ce",
         "tarball": "https://registry.npmjs.org/fsevents/-/fsevents-1.0.6.tgz",
@@ -702,7 +673,6 @@ Object {
       "devDependencies": Object {
         "tap": "~0.4.8",
       },
-      "directories": Object {},
       "dist": Object {
         "shasum": "2d90585bbcac9ff535ff1a1a94b04ebb5080858f",
         "tarball": "https://registry.npmjs.org/fsevents/-/fsevents-1.0.7.tgz",
@@ -729,7 +699,6 @@ Object {
       "devDependencies": Object {
         "tap": "~0.4.8",
       },
-      "directories": Object {},
       "dist": Object {
         "shasum": "4fc72faaa31a307b8f140160000940e420c27bc5",
         "tarball": "https://registry.npmjs.org/fsevents/-/fsevents-1.0.8.tgz",
@@ -756,7 +725,6 @@ Object {
       "devDependencies": Object {
         "tap": "~0.4.8",
       },
-      "directories": Object {},
       "dist": Object {
         "shasum": "02492faccd77061790748103ea5e4e419bbb79fa",
         "tarball": "https://registry.npmjs.org/fsevents/-/fsevents-1.0.9.tgz",
@@ -783,7 +751,6 @@ Object {
       "devDependencies": Object {
         "tap": "~0.4.8",
       },
-      "directories": Object {},
       "dist": Object {
         "shasum": "85195de56ccbc4778da3b3d83d8d1d186eba24ce",
         "tarball": "https://registry.npmjs.org/fsevents/-/fsevents-1.1.0.tgz",
@@ -807,7 +774,6 @@ Object {
       "devDependencies": Object {
         "tap": "~0.4.8",
       },
-      "directories": Object {},
       "dist": Object {
         "shasum": "f19fd28f43eeaf761680e519a203c4d0b3d31aff",
         "tarball": "https://registry.npmjs.org/fsevents/-/fsevents-1.1.1.tgz",
@@ -834,7 +800,6 @@ Object {
       "devDependencies": Object {
         "tap": "~0.4.8",
       },
-      "directories": Object {},
       "dist": Object {
         "integrity": "sha512-Sn44E5wQW4bTHXvQmvSHwqbuiXtduD6Rrjm2ZtUEGbyrig+nUH3t/QD4M4/ZXViY556TBpRgZkHLDx3JxPwxiw==",
         "shasum": "3282b713fb3ad80ede0e9fcf4611b5aa6fc033f4",
@@ -862,7 +827,6 @@ Object {
       "devDependencies": Object {
         "tap": "~0.4.8",
       },
-      "directories": Object {},
       "dist": Object {
         "integrity": "sha512-WIr7iDkdmdbxu/Gh6eKEZJL6KPE74/5MEsf2whTOFNxbIoIixogroLdKYqB6FDav4Wavh/lZdzzd3b2KxIXC5Q==",
         "shasum": "11f82318f5fe7bb2cd22965a108e9306208216d8",
@@ -879,7 +843,6 @@ Object {
       "version": "1.1.3",
     },
     "1.2.0": Object {
-      "_hasShrinkwrap": false,
       "bundleDependencies": Array [
         "node-pre-gyp",
       ],
@@ -891,7 +854,6 @@ Object {
       "devDependencies": Object {
         "tap": "~0.4.8",
       },
-      "directories": Object {},
       "dist": Object {
         "fileCount": 1140,
         "integrity": "sha512-ROrBIbmw4ulxmQTwYAAGyN/0xgIOAFd6gX/K3F1aGLP/K5KxkubrlGISMV5EEWEB7qtiEdE0HpaqvMMHR+Ib6w==",
@@ -911,7 +873,6 @@ Object {
       "version": "1.2.0",
     },
     "1.2.10": Object {
-      "_hasShrinkwrap": false,
       "bundleDependencies": Array [
         "node-pre-gyp",
       ],
@@ -919,7 +880,6 @@ Object {
         "nan": "^2.12.1",
         "node-pre-gyp": "^0.12.0",
       },
-      "directories": Object {},
       "dist": Object {
         "fileCount": 542,
         "integrity": "sha512-Dw5DScF/8AWhWzWRbnQrFJfeR/TOJZjRr9Du9kfmd8t234ICcVeDBlauFl/jVcE5ZewhlPoCFvIqp0SE3kAVxA==",
@@ -939,7 +899,6 @@ Object {
       "version": "1.2.10",
     },
     "1.2.11": Object {
-      "_hasShrinkwrap": false,
       "bundleDependencies": Array [
         "node-pre-gyp",
       ],
@@ -948,7 +907,6 @@ Object {
         "nan": "^2.12.1",
         "node-pre-gyp": "*",
       },
-      "directories": Object {},
       "dist": Object {
         "fileCount": 541,
         "integrity": "sha512-+ux3lx6peh0BpvY0JebGyZoiR4D+oYzdPZMKJwkZ+sFkNJzpL7tXc/wehS49gUAxg3tmMHPHZkA8JU2rhhgDHw==",
@@ -968,7 +926,6 @@ Object {
       "version": "1.2.11",
     },
     "1.2.2": Object {
-      "_hasShrinkwrap": false,
       "bundleDependencies": Array [
         "node-pre-gyp",
       ],
@@ -980,7 +937,6 @@ Object {
       "devDependencies": Object {
         "tap": "~0.4.8",
       },
-      "directories": Object {},
       "dist": Object {
         "fileCount": 561,
         "integrity": "sha512-iownA+hC4uHFp+7gwP/y5SzaiUo7m2vpa0dhpzw8YuKtiZsz7cIXsFbXpLEeBM6WuCQyw1MH4RRe6XI8GFUctQ==",
@@ -1000,7 +956,6 @@ Object {
       "version": "1.2.2",
     },
     "1.2.3": Object {
-      "_hasShrinkwrap": false,
       "bundleDependencies": Array [
         "node-pre-gyp",
       ],
@@ -1012,7 +967,6 @@ Object {
       "devDependencies": Object {
         "tap": "~0.4.8",
       },
-      "directories": Object {},
       "dist": Object {
         "fileCount": 561,
         "integrity": "sha512-X+57O5YkDTiEQGiw8i7wYc2nQgweIekqkepI8Q3y4wVlurgBt2SuwxTeYUYMZIGpLZH3r/TsMjczCMXE5ZOt7Q==",
@@ -1032,7 +986,6 @@ Object {
       "version": "1.2.3",
     },
     "1.2.4": Object {
-      "_hasShrinkwrap": false,
       "bundleDependencies": Array [
         "node-pre-gyp",
       ],
@@ -1044,7 +997,6 @@ Object {
       "devDependencies": Object {
         "tap": "~0.4.8",
       },
-      "directories": Object {},
       "dist": Object {
         "fileCount": 559,
         "integrity": "sha512-z8H8/diyk76B7q5wg+Ud0+CqzcAF3mBBI/bA5ne5zrRUUIvNkJY//D3BqyH571KuAC4Nr7Rw7CjWX4r0y9DvNg==",
@@ -1064,7 +1016,6 @@ Object {
       "version": "1.2.4",
     },
     "1.2.6": Object {
-      "_hasShrinkwrap": false,
       "bundleDependencies": Array [
         "node-pre-gyp",
       ],
@@ -1076,7 +1027,6 @@ Object {
       "devDependencies": Object {
         "tap": "~0.4.8",
       },
-      "directories": Object {},
       "dist": Object {
         "fileCount": 14,
         "integrity": "sha512-BalK54tfK0pMC0jQFb2oHn1nz7JNQD/2ex5pBnCHgBi2xG7VV0cAOGy2RS2VbCqUXx5/6obMrMcQTJ8yjcGzbg==",
@@ -1096,7 +1046,6 @@ Object {
       "version": "1.2.6",
     },
     "1.2.7": Object {
-      "_hasShrinkwrap": false,
       "bundleDependencies": Array [
         "node-pre-gyp",
       ],
@@ -1108,7 +1057,6 @@ Object {
       "devDependencies": Object {
         "tap": "~0.4.8",
       },
-      "directories": Object {},
       "dist": Object {
         "fileCount": 539,
         "integrity": "sha512-Pxm6sI2MeBD7RdD12RYsqaP0nMiwx8eZBXCa6z2L+mRHm2DYrOYwihmhjpkdjUHwQhslWQjRpEgNq4XvBmaAuw==",
@@ -1128,7 +1076,6 @@ Object {
       "version": "1.2.7",
     },
     "1.2.8": Object {
-      "_hasShrinkwrap": false,
       "bundleDependencies": Array [
         "node-pre-gyp",
       ],
@@ -1137,7 +1084,6 @@ Object {
         "node-pre-gyp": "^0.12.0",
       },
       "deprecated": "Please update: there are crash fixes",
-      "directories": Object {},
       "dist": Object {
         "fileCount": 534,
         "integrity": "sha512-tPvHgPGB7m40CZ68xqFGkKuzN+RnpGmSV+hgeKxhRpbxdqKXUFJGC3yonBOLzQBcJyGpdZFDfCsdOC2KFsXzeA==",
@@ -1157,7 +1103,6 @@ Object {
       "version": "1.2.8",
     },
     "1.2.9": Object {
-      "_hasShrinkwrap": false,
       "bundleDependencies": Array [
         "node-pre-gyp",
       ],
@@ -1166,7 +1111,6 @@ Object {
         "node-pre-gyp": "^0.12.0",
       },
       "deprecated": "One of your dependencies needs to upgrade to fsevents v2: 1) Proper nodejs v10+ support 2) No more fetching binaries from AWS, smaller package size",
-      "directories": Object {},
       "dist": Object {
         "fileCount": 534,
         "integrity": "sha512-oeyj2H3EjjonWcFjD5NvZNE9Rqe4UW+nQBU2HNeKw0koVLEFIhtyETyAakeAM3de7Z/SW5kcA+fZUait9EApnw==",
@@ -1186,12 +1130,10 @@ Object {
       "version": "1.2.9",
     },
     "2.0.0": Object {
-      "_hasShrinkwrap": false,
       "deprecated": "Not Ready For Production",
       "devDependencies": Object {
         "tap": "~12.0.1",
       },
-      "directories": Object {},
       "dist": Object {
         "fileCount": 12,
         "integrity": "sha512-9eEzI5C/L25/OgIyx9jg2yQ/BhJxWd2t4EdC9mZq0VM2zdL30fyUteYqfPajZVr+ScyYxluWsFGQEzPHhf1KeA==",
@@ -1211,12 +1153,10 @@ Object {
       "version": "2.0.0",
     },
     "2.0.1": Object {
-      "_hasShrinkwrap": false,
       "deprecated": "Not Ready For Production",
       "devDependencies": Object {
         "tap": "~12.0.1",
       },
-      "directories": Object {},
       "dist": Object {
         "fileCount": 12,
         "integrity": "sha512-p+CXqK/iLvDESUWdn3NA3JVO9HxdfI+iXx8xR3DqWgKZvQNiEVpAyUQo0lmwz8rqksb4xaGerG291xuwwhX2kA==",
@@ -1236,10 +1176,7 @@ Object {
       "version": "2.0.1",
     },
     "2.0.2-pre-1": Object {
-      "_hasShrinkwrap": false,
       "deprecated": "Unstable",
-      "devDependencies": Object {},
-      "directories": Object {},
       "dist": Object {
         "fileCount": 19,
         "integrity": "sha512-rcrAK4uZLlxZLgz+s8nJtLOlpgM3gsDvOTM5mjLbaSUZmiR75JCxdeqNB8NnekRMl+0sAXWShKQGHKIkyYzY7g==",
@@ -1259,10 +1196,7 @@ Object {
       "version": "2.0.2-pre-1",
     },
     "2.0.3": Object {
-      "_hasShrinkwrap": false,
       "deprecated": "Unstable",
-      "devDependencies": Object {},
-      "directories": Object {},
       "dist": Object {
         "fileCount": 19,
         "integrity": "sha512-kbyPVQrgcnetW389rufw+WAl9szz0ougHcW6faFZ/RDESUwgmCWnzmXHONmdKSWiadtj6VaaewwhyX7ckL+itw==",
@@ -1282,10 +1216,7 @@ Object {
       "version": "2.0.3",
     },
     "2.0.4": Object {
-      "_hasShrinkwrap": false,
       "deprecated": "Unstable",
-      "devDependencies": Object {},
-      "directories": Object {},
       "dist": Object {
         "fileCount": 19,
         "integrity": "sha512-s5Nz+S1I1krznEMeI8msYq+AYL3aj6rmbK6uaMykZvSpN9zY1Ev/11O1RXbrlpJyxvn0VzhySs8LNkxwOHMl1g==",
@@ -1305,10 +1236,7 @@ Object {
       "version": "2.0.4",
     },
     "2.0.5": Object {
-      "_hasShrinkwrap": false,
       "deprecated": "Outdated",
-      "devDependencies": Object {},
-      "directories": Object {},
       "dist": Object {
         "fileCount": 20,
         "integrity": "sha512-MfLd8JqA1lbfD0um5vkoRwGu1uSU9aAxNCliQF5R7AmYDDSi53GQJPAuXzhGrrq8yju61XQlm0IPlANMzWH6gQ==",
@@ -1328,10 +1256,7 @@ Object {
       "version": "2.0.5",
     },
     "2.0.6": Object {
-      "_hasShrinkwrap": false,
       "deprecated": "Please update: there are crash fixes",
-      "devDependencies": Object {},
-      "directories": Object {},
       "dist": Object {
         "fileCount": 5,
         "integrity": "sha512-vfmKZp3XPM36DNF0qhW+Cdxk7xm7gTEHY1clv1Xq1arwRQuKZgAhw+NZNWbJBtuaNxzNXwhfdPYRrvIbjfS33A==",
@@ -1351,9 +1276,6 @@ Object {
       "version": "2.0.6",
     },
     "2.0.7": Object {
-      "_hasShrinkwrap": false,
-      "devDependencies": Object {},
-      "directories": Object {},
       "dist": Object {
         "fileCount": 5,
         "integrity": "sha512-a7YT0SV3RB+DjYcppwVDLtn13UQnmg0SWZS7ezZD0UjnLwXmy8Zm21GMVGLaFGimIqcvyMQaOJBrop8MyOp1kQ==",
@@ -1373,8 +1295,6 @@ Object {
       "version": "2.0.7",
     },
     "2.1.0": Object {
-      "_hasShrinkwrap": false,
-      "directories": Object {},
       "dist": Object {
         "fileCount": 6,
         "integrity": "sha512-+iXhW3LuDQsno8dOIrCIT/CBjeBWuP7PXe8w9shnj9Lebny/Gx1ZjVBYwexLz36Ri2jKuXMNpV6CYNh8lHHgrQ==",
@@ -1394,8 +1314,6 @@ Object {
       "version": "2.1.0",
     },
     "2.1.1": Object {
-      "_hasShrinkwrap": false,
-      "directories": Object {},
       "dist": Object {
         "fileCount": 5,
         "integrity": "sha512-4FRPXWETxtigtJW/gxzEDsX1LVbPAM93VleB83kZB+ellqbHMkyt2aJfuzNLRvFPnGi6bcE5SvfxgbXPeKteJw==",
@@ -1415,8 +1333,6 @@ Object {
       "version": "2.1.1",
     },
     "2.1.2": Object {
-      "_hasShrinkwrap": false,
-      "directories": Object {},
       "dist": Object {
         "fileCount": 6,
         "integrity": "sha512-R4wDiBwZ0KzpgOWetKDug1FZcYhqYnUYKtfZYt4mD5SBz76q0KR4Q9o7GIPamsVPGmW3EYPPJ0dOOjvx32ldZA==",
@@ -1463,6 +1379,7 @@ Object {
 exports[`test/test.js test/fixtures/fsevents.js TAP > version diff 1`] = `
 Object {
   "_from": 34,
+  "_hasShrinkwrap": 21,
   "_id": 57,
   "_nodeVersion": 49,
   "_npmOperationalInternal": 35,
@@ -1475,6 +1392,8 @@ Object {
   "bundledDependencies": 1,
   "contributors": 16,
   "description": 57,
+  "devDependencies": 6,
+  "directories": 57,
   "gitHead": 50,
   "gypfile": 21,
   "homepage": 57,

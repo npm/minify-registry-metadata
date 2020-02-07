@@ -33,6 +33,11 @@ const manifestSets = [
   'stagedVersions'
 ]
 
+const isEmpty = val => {
+  return !val ||
+    (typeof val === 'object' && Object.keys(val).length === 0)
+}
+
 const minifyManifests = (doc, out, type) => {
   if (!doc[type])
     return
@@ -56,7 +61,7 @@ const minifyManifests = (doc, out, type) => {
       manifest.bundleDependencies = manifest.bundledDependencies
     }
     manifestKeep.forEach(field => {
-      if (manifest[field] !== undefined) {
+      if (!isEmpty(manifest[field])) {
         smallVersion[field] = manifest[field]
       }
     })

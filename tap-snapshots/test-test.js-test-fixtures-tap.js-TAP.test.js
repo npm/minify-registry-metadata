@@ -16,7 +16,6 @@ Object {
   "name": "tap",
   "versions": Object {
     "14.10.1": Object {
-      "_hasShrinkwrap": false,
       "bin": Object {
         "tap": "bin/run.js",
       },
@@ -68,7 +67,6 @@ Object {
         "yaml": "^1.6.0",
         "yapool": "^1.0.0",
       },
-      "directories": Object {},
       "dist": Object {
         "fileCount": 4057,
         "integrity": "sha512-GsjAtKf9WKe2Cj5/5OckVdwyz4kv4pjlidDPpNY32ikR6rkBnicU/gxwckXvV/pQ5uTDx+od6XqmVAB7ityXWg==",
@@ -111,6 +109,7 @@ Object {
 
 exports[`test/test.js test/fixtures/tap.js TAP > version diff 1`] = `
 Object {
+  "_hasShrinkwrap": 1,
   "_id": 1,
   "_nodeVersion": 1,
   "_npmOperationalInternal": 1,
@@ -119,6 +118,7 @@ Object {
   "author": 1,
   "bugs": 1,
   "description": 1,
+  "directories": 1,
   "gitHead": 1,
   "homepage": 1,
   "keywords": 1,

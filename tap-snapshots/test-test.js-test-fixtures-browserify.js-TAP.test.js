@@ -18,7 +18,6 @@ Object {
         "findit": ">=0.0.1",
         "npm": ">=0.2.16",
       },
-      "directories": Object {},
       "dist": Object {
         "shasum": "d3f2e476a7c91ee4664a77d92a88328f16a4b51c",
         "tarball": "https://registry.npmjs.org/browserify/-/browserify-0.0.1.tgz",
@@ -34,7 +33,6 @@ Object {
         "findit": ">=0.0.1",
         "npm": ">=0.2.16",
       },
-      "directories": Object {},
       "dist": Object {
         "shasum": "c93d7d08f3c5acd570d2895d6c83093154afce3e",
         "tarball": "https://registry.npmjs.org/browserify/-/browserify-0.0.2.tgz",
@@ -50,7 +48,6 @@ Object {
         "findit": ">=0.0.1",
         "npm": ">=0.2.16",
       },
-      "directories": Object {},
       "dist": Object {
         "shasum": "e05a0a029a413378439e90559efdbc47c55e4c3e",
         "tarball": "https://registry.npmjs.org/browserify/-/browserify-0.0.3.tgz",
@@ -67,7 +64,6 @@ Object {
         "findit": ">=0.0.1",
         "npm": ">=0.2.16",
       },
-      "directories": Object {},
       "dist": Object {
         "shasum": "24c86b71754f9091d4b7fe68151ab5ad1296083a",
         "tarball": "https://registry.npmjs.org/browserify/-/browserify-0.0.4.tgz",
@@ -85,7 +81,6 @@ Object {
         "findit": ">=0.0.1",
         "npm": ">=0.2.16",
       },
-      "directories": Object {},
       "dist": Object {
         "shasum": "7a69b80ff5e5ffb2c291737f61a2b1d25e741b3e",
         "tarball": "https://registry.npmjs.org/browserify/-/browserify-0.0.5.tgz",
@@ -1709,7 +1704,6 @@ Object {
         "node": "*",
       },
       "name": "browserify",
-      "optionalDependencies": Object {},
       "version": "1.10.11",
     },
     "1.10.12": Object {
@@ -1753,7 +1747,6 @@ Object {
         "node": "*",
       },
       "name": "browserify",
-      "optionalDependencies": Object {},
       "version": "1.10.12",
     },
     "1.10.13": Object {
@@ -1797,7 +1790,6 @@ Object {
         "node": "*",
       },
       "name": "browserify",
-      "optionalDependencies": Object {},
       "version": "1.10.13",
     },
     "1.10.14": Object {
@@ -1841,7 +1833,6 @@ Object {
         "node": "*",
       },
       "name": "browserify",
-      "optionalDependencies": Object {},
       "version": "1.10.14",
     },
     "1.10.15": Object {
@@ -1885,7 +1876,6 @@ Object {
         "node": "*",
       },
       "name": "browserify",
-      "optionalDependencies": Object {},
       "version": "1.10.15",
     },
     "1.10.16": Object {
@@ -1929,7 +1919,6 @@ Object {
         "node": "*",
       },
       "name": "browserify",
-      "optionalDependencies": Object {},
       "version": "1.10.16",
     },
     "1.10.17": Object {
@@ -1973,7 +1962,6 @@ Object {
         "node": "*",
       },
       "name": "browserify",
-      "optionalDependencies": Object {},
       "version": "1.10.17",
     },
     "1.10.2": Object {
@@ -2142,7 +2130,6 @@ Object {
         "node": "*",
       },
       "name": "browserify",
-      "optionalDependencies": Object {},
       "version": "1.10.5",
     },
     "1.10.6": Object {
@@ -2185,7 +2172,6 @@ Object {
         "node": "*",
       },
       "name": "browserify",
-      "optionalDependencies": Object {},
       "version": "1.10.6",
     },
     "1.10.7": Object {
@@ -2228,7 +2214,6 @@ Object {
         "node": "*",
       },
       "name": "browserify",
-      "optionalDependencies": Object {},
       "version": "1.10.7",
     },
     "1.10.8": Object {
@@ -2271,7 +2256,6 @@ Object {
         "node": "*",
       },
       "name": "browserify",
-      "optionalDependencies": Object {},
       "version": "1.10.8",
     },
     "1.10.9": Object {
@@ -2314,7 +2298,6 @@ Object {
         "node": "*",
       },
       "name": "browserify",
-      "optionalDependencies": Object {},
       "version": "1.10.9",
     },
     "1.11.0": Object {
@@ -2358,7 +2341,6 @@ Object {
         "node": "*",
       },
       "name": "browserify",
-      "optionalDependencies": Object {},
       "version": "1.11.0",
     },
     "1.11.1": Object {
@@ -2402,7 +2384,6 @@ Object {
         "node": "*",
       },
       "name": "browserify",
-      "optionalDependencies": Object {},
       "version": "1.11.1",
     },
     "1.12.0": Object {
@@ -2446,7 +2427,6 @@ Object {
         "node": "*",
       },
       "name": "browserify",
-      "optionalDependencies": Object {},
       "version": "1.12.0",
     },
     "1.12.1": Object {
@@ -2490,7 +2470,6 @@ Object {
         "node": "*",
       },
       "name": "browserify",
-      "optionalDependencies": Object {},
       "version": "1.12.1",
     },
     "1.12.2": Object {
@@ -2534,7 +2513,6 @@ Object {
         "node": "*",
       },
       "name": "browserify",
-      "optionalDependencies": Object {},
       "version": "1.12.2",
     },
     "1.12.3": Object {
@@ -5701,7 +5679,6 @@ Object {
         "temp": "^0.8.1",
         "through": "^2.3.4",
       },
-      "directories": Object {},
       "dist": Object {
         "shasum": "e017abd802c61eee0d23ba4d99418be430813efc",
         "tarball": "https://registry.npmjs.org/browserify/-/browserify-10.0.0.tgz",
@@ -5778,7 +5755,6 @@ Object {
         "temp": "^0.8.1",
         "through": "^2.3.4",
       },
-      "directories": Object {},
       "dist": Object {
         "shasum": "da118af7d88c73ae6ccf980dbb43836525e645f3",
         "tarball": "https://registry.npmjs.org/browserify/-/browserify-10.1.0.tgz",
@@ -5855,7 +5831,6 @@ Object {
         "temp": "^0.8.1",
         "through": "^2.3.4",
       },
-      "directories": Object {},
       "dist": Object {
         "shasum": "e25a76cac5fbd53921cf8f75d2ead1ce5d7435d1",
         "tarball": "https://registry.npmjs.org/browserify/-/browserify-10.1.1.tgz",
@@ -5932,7 +5907,6 @@ Object {
         "temp": "^0.8.1",
         "through": "^2.3.4",
       },
-      "directories": Object {},
       "dist": Object {
         "shasum": "de21a06b39749223b6d13f1283a9939a2337c808",
         "tarball": "https://registry.npmjs.org/browserify/-/browserify-10.1.2.tgz",
@@ -6009,7 +5983,6 @@ Object {
         "temp": "^0.8.1",
         "through": "^2.3.4",
       },
-      "directories": Object {},
       "dist": Object {
         "shasum": "6605dcffbb918c6a69d9c60201d2397ef7ce20ff",
         "tarball": "https://registry.npmjs.org/browserify/-/browserify-10.1.3.tgz",
@@ -6086,7 +6059,6 @@ Object {
         "temp": "^0.8.1",
         "through": "^2.3.4",
       },
-      "directories": Object {},
       "dist": Object {
         "shasum": "9a7a23af589106144bba8bddc758da5a13d4f663",
         "tarball": "https://registry.npmjs.org/browserify/-/browserify-10.2.0.tgz",
@@ -6162,7 +6134,6 @@ Object {
         "temp": "^0.8.1",
         "through": "^2.3.4",
       },
-      "directories": Object {},
       "dist": Object {
         "shasum": "adeb3fa3dc89e22ba417a33690a56cebe7a2e1bd",
         "tarball": "https://registry.npmjs.org/browserify/-/browserify-10.2.1.tgz",
@@ -6238,7 +6209,6 @@ Object {
         "temp": "^0.8.1",
         "through": "^2.3.4",
       },
-      "directories": Object {},
       "dist": Object {
         "shasum": "f6a18d4d6ab31113f9fdf83f103fa01728a8206a",
         "tarball": "https://registry.npmjs.org/browserify/-/browserify-10.2.3.tgz",
@@ -6313,7 +6283,6 @@ Object {
         "temp": "^0.8.1",
         "through": "^2.3.4",
       },
-      "directories": Object {},
       "dist": Object {
         "shasum": "670cb7dcdd40d67a221e0a1bb757a1d1e8378043",
         "tarball": "https://registry.npmjs.org/browserify/-/browserify-10.2.4.tgz",
@@ -6388,7 +6357,6 @@ Object {
         "temp": "^0.8.1",
         "through": "^2.3.4",
       },
-      "directories": Object {},
       "dist": Object {
         "shasum": "78bbd530f99766c5fba9bfbdec671042f3ae8968",
         "tarball": "https://registry.npmjs.org/browserify/-/browserify-10.2.5.tgz",
@@ -6463,7 +6431,6 @@ Object {
         "temp": "^0.8.1",
         "through": "^2.3.4",
       },
-      "directories": Object {},
       "dist": Object {
         "shasum": "dcbfef794f548f5f8498214814f697a5c50c0896",
         "tarball": "https://registry.npmjs.org/browserify/-/browserify-10.2.6.tgz",
@@ -6538,7 +6505,6 @@ Object {
         "temp": "^0.8.1",
         "through": "^2.3.4",
       },
-      "directories": Object {},
       "dist": Object {
         "shasum": "0b8942ca5fdca24756c3d33e77d8b8a6270df9cb",
         "tarball": "https://registry.npmjs.org/browserify/-/browserify-11.0.0.tgz",
@@ -6613,7 +6579,6 @@ Object {
         "temp": "^0.8.1",
         "through": "^2.3.4",
       },
-      "directories": Object {},
       "dist": Object {
         "shasum": "fab7355bf49f82d18256ad367b001d2e731401cc",
         "tarball": "https://registry.npmjs.org/browserify/-/browserify-11.0.1.tgz",
@@ -6688,7 +6653,6 @@ Object {
         "temp": "^0.8.1",
         "through": "^2.3.4",
       },
-      "directories": Object {},
       "dist": Object {
         "shasum": "3594935745dd7dfc14061e25130ab28888de4df8",
         "tarball": "https://registry.npmjs.org/browserify/-/browserify-11.1.0.tgz",
@@ -6763,7 +6727,6 @@ Object {
         "temp": "^0.8.1",
         "through": "^2.3.4",
       },
-      "directories": Object {},
       "dist": Object {
         "shasum": "a11bb9dd209d79572b813f7eeeaf828a5f5c0e4e",
         "tarball": "https://registry.npmjs.org/browserify/-/browserify-11.2.0.tgz",
@@ -6836,7 +6799,6 @@ Object {
         "temp": "^0.8.1",
         "through": "^2.3.4",
       },
-      "directories": Object {},
       "dist": Object {
         "shasum": "6a6e85dc26265f4ecef75430c384b0ee0b2877b3",
         "tarball": "https://registry.npmjs.org/browserify/-/browserify-12.0.0.tgz",
@@ -6909,7 +6871,6 @@ Object {
         "temp": "^0.8.1",
         "through": "^2.3.4",
       },
-      "directories": Object {},
       "dist": Object {
         "shasum": "2e0bd015384ed07feaac5b6466bd582c5085ec3e",
         "tarball": "https://registry.npmjs.org/browserify/-/browserify-12.0.1.tgz",
@@ -6982,7 +6943,6 @@ Object {
         "temp": "^0.8.1",
         "through": "^2.3.4",
       },
-      "directories": Object {},
       "dist": Object {
         "shasum": "57f21e5e6e308ff5987c4dafd44840b2b98f7a19",
         "tarball": "https://registry.npmjs.org/browserify/-/browserify-12.0.2.tgz",
@@ -7055,7 +7015,6 @@ Object {
         "temp": "^0.8.1",
         "through": "^2.3.4",
       },
-      "directories": Object {},
       "dist": Object {
         "shasum": "8f223bb24ff4ee4335e6bea9671de294e43ba6a3",
         "tarball": "https://registry.npmjs.org/browserify/-/browserify-13.0.0.tgz",
@@ -7127,7 +7086,6 @@ Object {
         "temp": "^0.8.1",
         "through": "^2.3.4",
       },
-      "directories": Object {},
       "dist": Object {
         "shasum": "d37179cbb222179ecf730ec7e625e998677902d4",
         "tarball": "https://registry.npmjs.org/browserify/-/browserify-13.0.1.tgz",
@@ -7199,7 +7157,6 @@ Object {
         "temp": "^0.8.1",
         "through": "^2.3.4",
       },
-      "directories": Object {},
       "dist": Object {
         "shasum": "d81a018e98dd7ca706ec04253d20f8a03b2af8ae",
         "tarball": "https://registry.npmjs.org/browserify/-/browserify-13.1.0.tgz",
@@ -7272,7 +7229,6 @@ Object {
         "temp": "^0.8.1",
         "through": "^2.3.4",
       },
-      "directories": Object {},
       "dist": Object {
         "shasum": "72a2310e2f706ed87db929cf0ee73a5e195d9bb0",
         "tarball": "https://registry.npmjs.org/browserify/-/browserify-13.1.1.tgz",
@@ -7345,7 +7301,6 @@ Object {
         "temp": "^0.8.1",
         "through": "^2.3.4",
       },
-      "directories": Object {},
       "dist": Object {
         "shasum": "66d57185a989236cd75ff70f62c86a1ef757bc32",
         "tarball": "https://registry.npmjs.org/browserify/-/browserify-13.2.0.tgz",
@@ -7418,7 +7373,6 @@ Object {
         "temp": "^0.8.1",
         "through": "^2.3.4",
       },
-      "directories": Object {},
       "dist": Object {
         "shasum": "b5a9c9020243f0c70e4675bec8223bc627e415ce",
         "tarball": "https://registry.npmjs.org/browserify/-/browserify-13.3.0.tgz",
@@ -7491,7 +7445,6 @@ Object {
         "temp": "^0.8.1",
         "through": "^2.3.4",
       },
-      "directories": Object {},
       "dist": Object {
         "shasum": "67e6cfe7acb2fb1a1908e8a763452306de0bcf38",
         "tarball": "https://registry.npmjs.org/browserify/-/browserify-14.0.0.tgz",
@@ -7564,7 +7517,6 @@ Object {
         "temp": "^0.8.1",
         "through": "^2.3.4",
       },
-      "directories": Object {},
       "dist": Object {
         "shasum": "0508cc1e7bf4c152312c2fa523e676c0b0b92311",
         "tarball": "https://registry.npmjs.org/browserify/-/browserify-14.1.0.tgz",
@@ -7595,7 +7547,6 @@ Object {
         "seq": "0.3.3",
         "tap": "~0.4.0",
       },
-      "directories": Object {},
       "dist": Object {
         "shasum": "0f5cf404b9b464a517b915c89348abd289acb326",
         "tarball": "https://registry.npmjs.org/browserify/-/browserify-2.0.0.tgz",
@@ -7626,7 +7577,6 @@ Object {
         "seq": "0.3.3",
         "tap": "~0.4.0",
       },
-      "directories": Object {},
       "dist": Object {
         "shasum": "67afcfa370d8e20066b28baa05ca2aaca0b92a8b",
         "tarball": "https://registry.npmjs.org/browserify/-/browserify-2.0.1.tgz",
@@ -7657,7 +7607,6 @@ Object {
         "seq": "0.3.3",
         "tap": "~0.4.0",
       },
-      "directories": Object {},
       "dist": Object {
         "shasum": "eb28329957933ac5975375cc2a09c4d719b96ba7",
         "tarball": "https://registry.npmjs.org/browserify/-/browserify-2.1.0.tgz",
@@ -7692,7 +7641,6 @@ Object {
         "seq": "0.3.3",
         "tap": "~0.4.0",
       },
-      "directories": Object {},
       "dist": Object {
         "shasum": "4f8a470442ad05fb93da44fae3d77059f08fee1f",
         "tarball": "https://registry.npmjs.org/browserify/-/browserify-2.10.0.tgz",
@@ -7727,7 +7675,6 @@ Object {
         "seq": "0.3.3",
         "tap": "~0.4.0",
       },
-      "directories": Object {},
       "dist": Object {
         "shasum": "0a32f6a31bfe9c23460c3986118eead0fea0de68",
         "tarball": "https://registry.npmjs.org/browserify/-/browserify-2.10.1.tgz",
@@ -7762,7 +7709,6 @@ Object {
         "seq": "0.3.3",
         "tap": "~0.4.0",
       },
-      "directories": Object {},
       "dist": Object {
         "shasum": "25935990c8b62cf158a96e7f9358e7c720c200fb",
         "tarball": "https://registry.npmjs.org/browserify/-/browserify-2.10.2.tgz",
@@ -7797,7 +7743,6 @@ Object {
         "seq": "0.3.3",
         "tap": "~0.4.0",
       },
-      "directories": Object {},
       "dist": Object {
         "shasum": "36fc4d2f83a8c611ee0a821ab35a141ea65c7c84",
         "tarball": "https://registry.npmjs.org/browserify/-/browserify-2.11.0.tgz",
@@ -7832,7 +7777,6 @@ Object {
         "seq": "0.3.3",
         "tap": "~0.4.0",
       },
-      "directories": Object {},
       "dist": Object {
         "shasum": "7efb3d9d213d4e48f36d86484049d510952ec0b6",
         "tarball": "https://registry.npmjs.org/browserify/-/browserify-2.12.0.tgz",
@@ -7867,7 +7811,6 @@ Object {
         "seq": "0.3.3",
         "tap": "~0.4.0",
       },
-      "directories": Object {},
       "dist": Object {
         "shasum": "9119efe470023cecd7b5ee5af5854174644025f2",
         "tarball": "https://registry.npmjs.org/browserify/-/browserify-2.12.1.tgz",
@@ -7902,7 +7845,6 @@ Object {
         "seq": "0.3.3",
         "tap": "~0.4.0",
       },
-      "directories": Object {},
       "dist": Object {
         "shasum": "2d1c055bc1fc4ecffb0417f626daf59c1853c0eb",
         "tarball": "https://registry.npmjs.org/browserify/-/browserify-2.12.2.tgz",
@@ -7937,7 +7879,6 @@ Object {
         "seq": "0.3.3",
         "tap": "~0.4.0",
       },
-      "directories": Object {},
       "dist": Object {
         "shasum": "03b8a7ed3511f35be19e37bfb646e476ca1e49b6",
         "tarball": "https://registry.npmjs.org/browserify/-/browserify-2.12.3.tgz",
@@ -7972,7 +7913,6 @@ Object {
         "seq": "0.3.3",
         "tap": "~0.4.0",
       },
-      "directories": Object {},
       "dist": Object {
         "shasum": "d46d880df406c95660964cf2210ff8e2bd4d73f1",
         "tarball": "https://registry.npmjs.org/browserify/-/browserify-2.12.4.tgz",
@@ -8007,7 +7947,6 @@ Object {
         "seq": "0.3.3",
         "tap": "~0.4.0",
       },
-      "directories": Object {},
       "dist": Object {
         "shasum": "3501bd713cdbd00433670ab28be1c97bf573eea6",
         "tarball": "https://registry.npmjs.org/browserify/-/browserify-2.12.5.tgz",
@@ -8042,7 +7981,6 @@ Object {
         "seq": "0.3.3",
         "tap": "~0.4.0",
       },
-      "directories": Object {},
       "dist": Object {
         "shasum": "f8a68148001453c6ac913625ccf53241e84f1cf9",
         "tarball": "https://registry.npmjs.org/browserify/-/browserify-2.13.0.tgz",
@@ -8077,7 +8015,6 @@ Object {
         "seq": "0.3.3",
         "tap": "~0.4.0",
       },
-      "directories": Object {},
       "dist": Object {
         "shasum": "9c82504b3d6e17f24d1a9c8f38bc66506f5cccb0",
         "tarball": "https://registry.npmjs.org/browserify/-/browserify-2.13.1.tgz",
@@ -8112,7 +8049,6 @@ Object {
         "seq": "0.3.3",
         "tap": "~0.4.0",
       },
-      "directories": Object {},
       "dist": Object {
         "shasum": "4f179fbcd0d68dd1fe82cec71f9c1eaec95118cf",
         "tarball": "https://registry.npmjs.org/browserify/-/browserify-2.13.2.tgz",
@@ -8147,7 +8083,6 @@ Object {
         "seq": "0.3.3",
         "tap": "~0.4.0",
       },
-      "directories": Object {},
       "dist": Object {
         "shasum": "2603a33e6880738e3399a7ecbc16863eb9026b77",
         "tarball": "https://registry.npmjs.org/browserify/-/browserify-2.13.3.tgz",
@@ -8182,7 +8117,6 @@ Object {
         "seq": "0.3.3",
         "tap": "~0.4.0",
       },
-      "directories": Object {},
       "dist": Object {
         "shasum": "4ef02fd5058a000d2ea438d5ef597c9453088ef9",
         "tarball": "https://registry.npmjs.org/browserify/-/browserify-2.14.0.tgz",
@@ -8217,7 +8151,6 @@ Object {
         "seq": "0.3.3",
         "tap": "~0.4.0",
       },
-      "directories": Object {},
       "dist": Object {
         "shasum": "38ebbc1aeff5234aa311ca1428ca983d8ab7dcb7",
         "tarball": "https://registry.npmjs.org/browserify/-/browserify-2.14.1.tgz",
@@ -8252,7 +8185,6 @@ Object {
         "seq": "0.3.3",
         "tap": "~0.4.0",
       },
-      "directories": Object {},
       "dist": Object {
         "shasum": "4d7a81cf243cc53d30e43256fd37ffffb27b0c71",
         "tarball": "https://registry.npmjs.org/browserify/-/browserify-2.14.2.tgz",
@@ -8287,7 +8219,6 @@ Object {
         "seq": "0.3.3",
         "tap": "~0.4.0",
       },
-      "directories": Object {},
       "dist": Object {
         "shasum": "5a82c08bd9209ee53878deec8d8a4c99fa6b19ca",
         "tarball": "https://registry.npmjs.org/browserify/-/browserify-2.15.0.tgz",
@@ -8322,7 +8253,6 @@ Object {
         "seq": "0.3.3",
         "tap": "~0.4.0",
       },
-      "directories": Object {},
       "dist": Object {
         "shasum": "47d9d2d3ef67f2a52a06a9b91ef7f769412f6635",
         "tarball": "https://registry.npmjs.org/browserify/-/browserify-2.16.0.tgz",
@@ -8357,7 +8287,6 @@ Object {
         "seq": "0.3.3",
         "tap": "~0.4.0",
       },
-      "directories": Object {},
       "dist": Object {
         "shasum": "02c37265cc30f128f210fae831f3235cc9517595",
         "tarball": "https://registry.npmjs.org/browserify/-/browserify-2.17.0.tgz",
@@ -8392,7 +8321,6 @@ Object {
         "seq": "0.3.3",
         "tap": "~0.4.0",
       },
-      "directories": Object {},
       "dist": Object {
         "shasum": "6f367b7fea2278267212c872d65b6e3e56408ee4",
         "tarball": "https://registry.npmjs.org/browserify/-/browserify-2.17.1.tgz",
@@ -8427,7 +8355,6 @@ Object {
         "seq": "0.3.3",
         "tap": "~0.4.0",
       },
-      "directories": Object {},
       "dist": Object {
         "shasum": "0bea5f97aff8ce2922aa7bf79778827040af9812",
         "tarball": "https://registry.npmjs.org/browserify/-/browserify-2.17.2.tgz",
@@ -8462,7 +8389,6 @@ Object {
         "seq": "0.3.3",
         "tap": "~0.4.0",
       },
-      "directories": Object {},
       "dist": Object {
         "shasum": "d57026b3cc71a2244444677339c510beb7544388",
         "tarball": "https://registry.npmjs.org/browserify/-/browserify-2.17.3.tgz",
@@ -8497,7 +8423,6 @@ Object {
         "seq": "0.3.3",
         "tap": "~0.4.0",
       },
-      "directories": Object {},
       "dist": Object {
         "shasum": "ea755831b9fbbcaaf359695aaeaa3e79fa41ff13",
         "tarball": "https://registry.npmjs.org/browserify/-/browserify-2.17.4.tgz",
@@ -8533,7 +8458,6 @@ Object {
         "seq": "0.3.3",
         "tap": "~0.4.0",
       },
-      "directories": Object {},
       "dist": Object {
         "shasum": "4a3de924496769af0d4e2e8545908264b544d4a9",
         "tarball": "https://registry.npmjs.org/browserify/-/browserify-2.18.0.tgz",
@@ -8569,7 +8493,6 @@ Object {
         "seq": "0.3.3",
         "tap": "~0.4.0",
       },
-      "directories": Object {},
       "dist": Object {
         "shasum": "cf39e3d015c0fa79de67cb572d21fe238bd0eac2",
         "tarball": "https://registry.npmjs.org/browserify/-/browserify-2.18.1.tgz",
@@ -8605,7 +8528,6 @@ Object {
         "seq": "0.3.3",
         "tap": "~0.4.0",
       },
-      "directories": Object {},
       "dist": Object {
         "shasum": "83403c422716577c6517023e475a9f738a58599c",
         "tarball": "https://registry.npmjs.org/browserify/-/browserify-2.19.0.tgz",
@@ -8636,7 +8558,6 @@ Object {
         "seq": "0.3.3",
         "tap": "~0.4.0",
       },
-      "directories": Object {},
       "dist": Object {
         "shasum": "3d7a0d637adbe35f2e642581203411919ab9f1e7",
         "tarball": "https://registry.npmjs.org/browserify/-/browserify-2.2.0.tgz",
@@ -8667,7 +8588,6 @@ Object {
         "seq": "0.3.3",
         "tap": "~0.4.0",
       },
-      "directories": Object {},
       "dist": Object {
         "shasum": "26b05e150075ac81fe96a7b68939a2c4901ec6ef",
         "tarball": "https://registry.npmjs.org/browserify/-/browserify-2.2.1.tgz",
@@ -8698,7 +8618,6 @@ Object {
         "seq": "0.3.3",
         "tap": "~0.4.0",
       },
-      "directories": Object {},
       "dist": Object {
         "shasum": "ad43f83e01a921d4d91bcc60db9d171022c002b6",
         "tarball": "https://registry.npmjs.org/browserify/-/browserify-2.2.2.tgz",
@@ -8729,7 +8648,6 @@ Object {
         "seq": "0.3.3",
         "tap": "~0.4.0",
       },
-      "directories": Object {},
       "dist": Object {
         "shasum": "b06d41520f6a87f933839421ae588318b6fc2f73",
         "tarball": "https://registry.npmjs.org/browserify/-/browserify-2.2.3.tgz",
@@ -8760,7 +8678,6 @@ Object {
         "seq": "0.3.3",
         "tap": "~0.4.0",
       },
-      "directories": Object {},
       "dist": Object {
         "shasum": "d86db21e190812c90f5665ff1a86d90f38965d3d",
         "tarball": "https://registry.npmjs.org/browserify/-/browserify-2.2.4.tgz",
@@ -8791,7 +8708,6 @@ Object {
         "seq": "0.3.3",
         "tap": "~0.4.0",
       },
-      "directories": Object {},
       "dist": Object {
         "shasum": "bd2fc76f2f0bf0524e1e783bbfc05ddf8a3c87ab",
         "tarball": "https://registry.npmjs.org/browserify/-/browserify-2.2.5.tgz",
@@ -8822,7 +8738,6 @@ Object {
         "seq": "0.3.3",
         "tap": "~0.4.0",
       },
-      "directories": Object {},
       "dist": Object {
         "shasum": "2664d8d802567ff12a3fe89cb6c440d91c013bbf",
         "tarball": "https://registry.npmjs.org/browserify/-/browserify-2.2.6.tgz",
@@ -8858,7 +8773,6 @@ Object {
         "seq": "0.3.3",
         "tap": "~0.4.0",
       },
-      "directories": Object {},
       "dist": Object {
         "shasum": "535da3056f70426e72a6da873780b015d2d08dfc",
         "tarball": "https://registry.npmjs.org/browserify/-/browserify-2.20.0.tgz",
@@ -8894,7 +8808,6 @@ Object {
         "seq": "0.3.3",
         "tap": "~0.4.0",
       },
-      "directories": Object {},
       "dist": Object {
         "shasum": "f1cbfd08e770c3d46b4c1e3efa39d04a2047153d",
         "tarball": "https://registry.npmjs.org/browserify/-/browserify-2.20.1.tgz",
@@ -8930,7 +8843,6 @@ Object {
         "seq": "0.3.3",
         "tap": "~0.4.0",
       },
-      "directories": Object {},
       "dist": Object {
         "shasum": "5ac1726baee7a891088199d4249f978b996e7da9",
         "tarball": "https://registry.npmjs.org/browserify/-/browserify-2.20.2.tgz",
@@ -8966,7 +8878,6 @@ Object {
         "seq": "0.3.3",
         "tap": "~0.4.0",
       },
-      "directories": Object {},
       "dist": Object {
         "shasum": "1103b4d53f51807ca0e8a7f331e5c8044e8f989a",
         "tarball": "https://registry.npmjs.org/browserify/-/browserify-2.21.0.tgz",
@@ -9002,7 +8913,6 @@ Object {
         "seq": "0.3.3",
         "tap": "~0.4.0",
       },
-      "directories": Object {},
       "dist": Object {
         "shasum": "e99c569e5c8ead007a923fe0857964666b2dcbf3",
         "tarball": "https://registry.npmjs.org/browserify/-/browserify-2.22.0.tgz",
@@ -9039,7 +8949,6 @@ Object {
         "seq": "0.3.3",
         "tap": "~0.4.0",
       },
-      "directories": Object {},
       "dist": Object {
         "shasum": "458034af887f54df3b76a59523ea7848a86cec56",
         "tarball": "https://registry.npmjs.org/browserify/-/browserify-2.23.0.tgz",
@@ -9076,7 +8985,6 @@ Object {
         "seq": "0.3.3",
         "tap": "~0.4.0",
       },
-      "directories": Object {},
       "dist": Object {
         "shasum": "1b2fba728af777a068d419f94ca24c60ee62eb71",
         "tarball": "https://registry.npmjs.org/browserify/-/browserify-2.23.1.tgz",
@@ -9113,7 +9021,6 @@ Object {
         "seq": "0.3.3",
         "tap": "~0.4.0",
       },
-      "directories": Object {},
       "dist": Object {
         "shasum": "964955c33fc0685d71ab777fa58c29e443dd47df",
         "tarball": "https://registry.npmjs.org/browserify/-/browserify-2.24.0.tgz",
@@ -9151,7 +9058,6 @@ Object {
         "seq": "0.3.3",
         "tap": "~0.4.0",
       },
-      "directories": Object {},
       "dist": Object {
         "shasum": "1e874f65ff1f97327b481924f3d9bba8ce29e334",
         "tarball": "https://registry.npmjs.org/browserify/-/browserify-2.24.1.tgz",
@@ -9190,7 +9096,6 @@ Object {
         "seq": "0.3.3",
         "tap": "~0.4.0",
       },
-      "directories": Object {},
       "dist": Object {
         "shasum": "d3a574c921d199490324b47cde2417ec6fb628fb",
         "tarball": "https://registry.npmjs.org/browserify/-/browserify-2.24.2.tgz",
@@ -9229,7 +9134,6 @@ Object {
         "seq": "0.3.3",
         "tap": "~0.4.0",
       },
-      "directories": Object {},
       "dist": Object {
         "shasum": "c5d0311e8d0ce599dbd99889b5d5dffeb5918cc8",
         "tarball": "https://registry.npmjs.org/browserify/-/browserify-2.24.3.tgz",
@@ -9268,7 +9172,6 @@ Object {
         "seq": "0.3.3",
         "tap": "~0.4.0",
       },
-      "directories": Object {},
       "dist": Object {
         "shasum": "91cee57241f862fc1e5717dd7fc27b49f65f0cce",
         "tarball": "https://registry.npmjs.org/browserify/-/browserify-2.25.0.tgz",
@@ -9307,7 +9210,6 @@ Object {
         "seq": "0.3.3",
         "tap": "~0.4.0",
       },
-      "directories": Object {},
       "dist": Object {
         "shasum": "eec11a53d338caf81c414d8581793fcc24d54fbb",
         "tarball": "https://registry.npmjs.org/browserify/-/browserify-2.25.1.tgz",
@@ -9346,7 +9248,6 @@ Object {
         "seq": "0.3.3",
         "tap": "~0.4.0",
       },
-      "directories": Object {},
       "dist": Object {
         "shasum": "ac43b50ea34994cf4c6af73636fc89b00f8c91b2",
         "tarball": "https://registry.npmjs.org/browserify/-/browserify-2.26.0.tgz",
@@ -9385,7 +9286,6 @@ Object {
         "seq": "0.3.3",
         "tap": "~0.4.0",
       },
-      "directories": Object {},
       "dist": Object {
         "shasum": "537ecb5c8af1395ba20bd81f8ed80a92e41df925",
         "tarball": "https://registry.npmjs.org/browserify/-/browserify-2.27.0.tgz",
@@ -9424,7 +9324,6 @@ Object {
         "seq": "0.3.3",
         "tap": "~0.4.0",
       },
-      "directories": Object {},
       "dist": Object {
         "shasum": "c8fa51f07fd54acc089d34fdf18e699917cf7cf5",
         "tarball": "https://registry.npmjs.org/browserify/-/browserify-2.27.1.tgz",
@@ -9463,7 +9362,6 @@ Object {
         "seq": "0.3.3",
         "tap": "~0.4.0",
       },
-      "directories": Object {},
       "dist": Object {
         "shasum": "af7a55d7a58be62f3e28d49f0a819a0ec564a5c7",
         "tarball": "https://registry.npmjs.org/browserify/-/browserify-2.28.0.tgz",
@@ -9502,7 +9400,6 @@ Object {
         "seq": "0.3.3",
         "tap": "~0.4.0",
       },
-      "directories": Object {},
       "dist": Object {
         "shasum": "0555ecacadc7f97563c3418ff8ab74ef6aae69d8",
         "tarball": "https://registry.npmjs.org/browserify/-/browserify-2.29.0.tgz",
@@ -9541,7 +9438,6 @@ Object {
         "seq": "0.3.3",
         "tap": "~0.4.0",
       },
-      "directories": Object {},
       "dist": Object {
         "shasum": "9bcb814aab920d8b6373ec9241281893b1229a87",
         "tarball": "https://registry.npmjs.org/browserify/-/browserify-2.29.1.tgz",
@@ -9574,7 +9470,6 @@ Object {
         "seq": "0.3.3",
         "tap": "~0.4.0",
       },
-      "directories": Object {},
       "dist": Object {
         "shasum": "a266b01fc70479184ef636c5c54a0f9c7ad67f18",
         "tarball": "https://registry.npmjs.org/browserify/-/browserify-2.3.0.tgz",
@@ -9607,7 +9502,6 @@ Object {
         "seq": "0.3.3",
         "tap": "~0.4.0",
       },
-      "directories": Object {},
       "dist": Object {
         "shasum": "86308fe79f829f58fd6a2d317610693b77a4bf8d",
         "tarball": "https://registry.npmjs.org/browserify/-/browserify-2.3.1.tgz",
@@ -9646,7 +9540,6 @@ Object {
         "seq": "0.3.3",
         "tap": "~0.4.0",
       },
-      "directories": Object {},
       "dist": Object {
         "shasum": "8b9d1203169c0b53edbbbd6f68fb7376c410169c",
         "tarball": "https://registry.npmjs.org/browserify/-/browserify-2.30.0.tgz",
@@ -9685,7 +9578,6 @@ Object {
         "seq": "0.3.3",
         "tap": "~0.4.0",
       },
-      "directories": Object {},
       "dist": Object {
         "shasum": "56fcb89f6745df8b104d5214b6319e5c61be6bbe",
         "tarball": "https://registry.npmjs.org/browserify/-/browserify-2.31.0.tgz",
@@ -9724,7 +9616,6 @@ Object {
         "seq": "0.3.3",
         "tap": "~0.4.0",
       },
-      "directories": Object {},
       "dist": Object {
         "shasum": "82f170531befe38ae1c2847864cc08682f024327",
         "tarball": "https://registry.npmjs.org/browserify/-/browserify-2.32.0.tgz",
@@ -9763,7 +9654,6 @@ Object {
         "seq": "0.3.3",
         "tap": "~0.4.0",
       },
-      "directories": Object {},
       "dist": Object {
         "shasum": "ef4e15f662281db473a826c2a3d338fd60d3360b",
         "tarball": "https://registry.npmjs.org/browserify/-/browserify-2.32.1.tgz",
@@ -9802,7 +9692,6 @@ Object {
         "seq": "0.3.3",
         "tap": "~0.4.0",
       },
-      "directories": Object {},
       "dist": Object {
         "shasum": "ce155187dcda508c08efe2407684ce2255b8eb22",
         "tarball": "https://registry.npmjs.org/browserify/-/browserify-2.32.2.tgz",
@@ -9841,7 +9730,6 @@ Object {
         "seq": "0.3.3",
         "tap": "~0.4.0",
       },
-      "directories": Object {},
       "dist": Object {
         "shasum": "a34ac81969136852d0a62282434a6972596e3b2f",
         "tarball": "https://registry.npmjs.org/browserify/-/browserify-2.32.3.tgz",
@@ -9880,7 +9768,6 @@ Object {
         "seq": "0.3.3",
         "tap": "~0.4.0",
       },
-      "directories": Object {},
       "dist": Object {
         "shasum": "3de23649f4b1faf399aa75986d53bb8890da3860",
         "tarball": "https://registry.npmjs.org/browserify/-/browserify-2.32.4.tgz",
@@ -9919,7 +9806,6 @@ Object {
         "seq": "0.3.3",
         "tap": "~0.4.0",
       },
-      "directories": Object {},
       "dist": Object {
         "shasum": "72cd778bbd15bc9d1f366f546cab56b74ce4ae32",
         "tarball": "https://registry.npmjs.org/browserify/-/browserify-2.33.0.tgz",
@@ -9958,7 +9844,6 @@ Object {
         "seq": "0.3.3",
         "tap": "~0.4.0",
       },
-      "directories": Object {},
       "dist": Object {
         "shasum": "f6ad1a2145a17665fd118dbfddf45583a3c675c4",
         "tarball": "https://registry.npmjs.org/browserify/-/browserify-2.33.1.tgz",
@@ -9997,7 +9882,6 @@ Object {
         "seq": "0.3.3",
         "tap": "~0.4.0",
       },
-      "directories": Object {},
       "dist": Object {
         "shasum": "59da2ec065dab3e536c509a55e5c01852fb717b6",
         "tarball": "https://registry.npmjs.org/browserify/-/browserify-2.34.0.tgz",
@@ -10036,7 +9920,6 @@ Object {
         "seq": "0.3.3",
         "tap": "~0.4.0",
       },
-      "directories": Object {},
       "dist": Object {
         "shasum": "71b0312bab193bc2534d018e483d343dbb9d3a6b",
         "tarball": "https://registry.npmjs.org/browserify/-/browserify-2.34.1.tgz",
@@ -10075,7 +9958,6 @@ Object {
         "seq": "0.3.3",
         "tap": "~0.4.0",
       },
-      "directories": Object {},
       "dist": Object {
         "shasum": "c060a044f0a5270068aca98d98775ecb3436e24a",
         "tarball": "https://registry.npmjs.org/browserify/-/browserify-2.34.2.tgz",
@@ -10115,7 +9997,6 @@ Object {
         "seq": "0.3.3",
         "tap": "~0.4.0",
       },
-      "directories": Object {},
       "dist": Object {
         "shasum": "f67dc43843ccc36734f537e4f26c3e0609604561",
         "tarball": "https://registry.npmjs.org/browserify/-/browserify-2.34.3.tgz",
@@ -10155,7 +10036,6 @@ Object {
         "seq": "0.3.3",
         "tap": "~0.4.0",
       },
-      "directories": Object {},
       "dist": Object {
         "shasum": "805f9b9f722ff1c0cce2e5a89cba7093d737f0cf",
         "tarball": "https://registry.npmjs.org/browserify/-/browserify-2.35.0.tgz",
@@ -10195,7 +10075,6 @@ Object {
         "seq": "0.3.3",
         "tap": "~0.4.0",
       },
-      "directories": Object {},
       "dist": Object {
         "shasum": "5dc4a534f3ce551a291bb09190e9215590680031",
         "tarball": "https://registry.npmjs.org/browserify/-/browserify-2.35.1.tgz",
@@ -10235,7 +10114,6 @@ Object {
         "seq": "0.3.3",
         "tap": "~0.4.0",
       },
-      "directories": Object {},
       "dist": Object {
         "shasum": "11408c4454592840ef81387517f990a441e9b892",
         "tarball": "https://registry.npmjs.org/browserify/-/browserify-2.35.2.tgz",
@@ -10275,7 +10153,6 @@ Object {
         "seq": "0.3.3",
         "tap": "~0.4.0",
       },
-      "directories": Object {},
       "dist": Object {
         "shasum": "eed9a0bf6ca983003e98199d7de261a79705d45a",
         "tarball": "https://registry.npmjs.org/browserify/-/browserify-2.35.3.tgz",
@@ -10315,7 +10192,6 @@ Object {
         "seq": "0.3.3",
         "tap": "~0.4.0",
       },
-      "directories": Object {},
       "dist": Object {
         "shasum": "f285769148f91dd65faa293a144984a7bae0618d",
         "tarball": "https://registry.npmjs.org/browserify/-/browserify-2.35.4.tgz",
@@ -10355,7 +10231,6 @@ Object {
         "seq": "0.3.3",
         "tap": "~0.4.0",
       },
-      "directories": Object {},
       "dist": Object {
         "shasum": "2a3db1564255803270de54d3cfded6e1d6261d2a",
         "tarball": "https://registry.npmjs.org/browserify/-/browserify-2.36.0.tgz",
@@ -10395,7 +10270,6 @@ Object {
         "seq": "0.3.3",
         "tap": "~0.4.0",
       },
-      "directories": Object {},
       "dist": Object {
         "shasum": "499839f1f8fbfa0581fbf4fad17a6987199efa69",
         "tarball": "https://registry.npmjs.org/browserify/-/browserify-2.36.1.tgz",
@@ -10428,7 +10302,6 @@ Object {
         "seq": "0.3.3",
         "tap": "~0.4.0",
       },
-      "directories": Object {},
       "dist": Object {
         "shasum": "a06e2e6af80993c2dcdf46c437b9e8cf89c4b8ec",
         "tarball": "https://registry.npmjs.org/browserify/-/browserify-2.4.0.tgz",
@@ -10461,7 +10334,6 @@ Object {
         "seq": "0.3.3",
         "tap": "~0.4.0",
       },
-      "directories": Object {},
       "dist": Object {
         "shasum": "97ecbed019fec68d855eadb0d790a4aeb2c9448c",
         "tarball": "https://registry.npmjs.org/browserify/-/browserify-2.4.1.tgz",
@@ -10494,7 +10366,6 @@ Object {
         "seq": "0.3.3",
         "tap": "~0.4.0",
       },
-      "directories": Object {},
       "dist": Object {
         "shasum": "72422e186922e0439f870dccf9452e3914961ef5",
         "tarball": "https://registry.npmjs.org/browserify/-/browserify-2.4.2.tgz",
@@ -10527,7 +10398,6 @@ Object {
         "seq": "0.3.3",
         "tap": "~0.4.0",
       },
-      "directories": Object {},
       "dist": Object {
         "shasum": "0fb55a323921644d7d8b4a999ab71cba112000a0",
         "tarball": "https://registry.npmjs.org/browserify/-/browserify-2.4.3.tgz",
@@ -10560,7 +10430,6 @@ Object {
         "seq": "0.3.3",
         "tap": "~0.4.0",
       },
-      "directories": Object {},
       "dist": Object {
         "shasum": "634ec5463f169a2a7758d1f39c3fa2e494d97861",
         "tarball": "https://registry.npmjs.org/browserify/-/browserify-2.5.0.tgz",
@@ -10593,7 +10462,6 @@ Object {
         "seq": "0.3.3",
         "tap": "~0.4.0",
       },
-      "directories": Object {},
       "dist": Object {
         "shasum": "588f8716ba23ed86333362c84fed2eb7a6840e51",
         "tarball": "https://registry.npmjs.org/browserify/-/browserify-2.5.1.tgz",
@@ -10626,7 +10494,6 @@ Object {
         "seq": "0.3.3",
         "tap": "~0.4.0",
       },
-      "directories": Object {},
       "dist": Object {
         "shasum": "867ffbe3f75a624310f02fb700baca017174f2cc",
         "tarball": "https://registry.npmjs.org/browserify/-/browserify-2.6.0.tgz",
@@ -10660,7 +10527,6 @@ Object {
         "seq": "0.3.3",
         "tap": "~0.4.0",
       },
-      "directories": Object {},
       "dist": Object {
         "shasum": "5312be9956959679bc3af54398053d1167593727",
         "tarball": "https://registry.npmjs.org/browserify/-/browserify-2.6.1.tgz",
@@ -10694,7 +10560,6 @@ Object {
         "seq": "0.3.3",
         "tap": "~0.4.0",
       },
-      "directories": Object {},
       "dist": Object {
         "shasum": "d0d59fff7b188c8fa7fee398b747a791d196dcda",
         "tarball": "https://registry.npmjs.org/browserify/-/browserify-2.7.0.tgz",
@@ -10728,7 +10593,6 @@ Object {
         "seq": "0.3.3",
         "tap": "~0.4.0",
       },
-      "directories": Object {},
       "dist": Object {
         "shasum": "5e65c98ff89bcd02e786ed1b60c35aa073747ce2",
         "tarball": "https://registry.npmjs.org/browserify/-/browserify-2.7.1.tgz",
@@ -10762,7 +10626,6 @@ Object {
         "seq": "0.3.3",
         "tap": "~0.4.0",
       },
-      "directories": Object {},
       "dist": Object {
         "shasum": "cec5bd0639f08261adb67fd305b23567b3c62a39",
         "tarball": "https://registry.npmjs.org/browserify/-/browserify-2.7.2.tgz",
@@ -10796,7 +10659,6 @@ Object {
         "seq": "0.3.3",
         "tap": "~0.4.0",
       },
-      "directories": Object {},
       "dist": Object {
         "shasum": "83ecd330e27b62915144a0c3a31b8a04da63a109",
         "tarball": "https://registry.npmjs.org/browserify/-/browserify-2.7.3.tgz",
@@ -10830,7 +10692,6 @@ Object {
         "seq": "0.3.3",
         "tap": "~0.4.0",
       },
-      "directories": Object {},
       "dist": Object {
         "shasum": "6a5977b8ce48b75073e7be13a7e52457acbdc310",
         "tarball": "https://registry.npmjs.org/browserify/-/browserify-2.7.4.tgz",
@@ -10865,7 +10726,6 @@ Object {
         "seq": "0.3.3",
         "tap": "~0.4.0",
       },
-      "directories": Object {},
       "dist": Object {
         "shasum": "d1ed24ff00b8404579b6ee02ab0451b8a137a601",
         "tarball": "https://registry.npmjs.org/browserify/-/browserify-2.8.0.tgz",
@@ -10900,7 +10760,6 @@ Object {
         "seq": "0.3.3",
         "tap": "~0.4.0",
       },
-      "directories": Object {},
       "dist": Object {
         "shasum": "733fa6f8ff8d4ab8ec3524be806f48a1f3b48a0d",
         "tarball": "https://registry.npmjs.org/browserify/-/browserify-2.8.1.tgz",
@@ -10935,7 +10794,6 @@ Object {
         "seq": "0.3.3",
         "tap": "~0.4.0",
       },
-      "directories": Object {},
       "dist": Object {
         "shasum": "3fbb402d9d188e462f869302ea8d92c4dfcd953c",
         "tarball": "https://registry.npmjs.org/browserify/-/browserify-2.9.0.tgz",
@@ -10994,7 +10852,6 @@ Object {
         "seq": "0.3.3",
         "tap": "~0.4.0",
       },
-      "directories": Object {},
       "dist": Object {
         "shasum": "edc51b0521be452b2aa1331cbb84f845d809272e",
         "tarball": "https://registry.npmjs.org/browserify/-/browserify-3.0.0.tgz",
@@ -11053,7 +10910,6 @@ Object {
         "seq": "0.3.3",
         "tap": "~0.4.0",
       },
-      "directories": Object {},
       "dist": Object {
         "shasum": "b4b513a6de3eb15c19ea0fb2fc1c804e5dad9c12",
         "tarball": "https://registry.npmjs.org/browserify/-/browserify-3.1.0.tgz",
@@ -11112,7 +10968,6 @@ Object {
         "seq": "0.3.3",
         "tap": "~0.4.0",
       },
-      "directories": Object {},
       "dist": Object {
         "shasum": "45bb39b9c06a3766070b52e5bea13e4238b21def",
         "tarball": "https://registry.npmjs.org/browserify/-/browserify-3.1.1.tgz",
@@ -11171,7 +11026,6 @@ Object {
         "seq": "0.3.3",
         "tap": "~0.4.0",
       },
-      "directories": Object {},
       "dist": Object {
         "shasum": "f90c516f314deb367a4b5079c57d93d444b7ca3d",
         "tarball": "https://registry.npmjs.org/browserify/-/browserify-3.1.2.tgz",
@@ -11230,7 +11084,6 @@ Object {
         "seq": "0.3.3",
         "tap": "~0.4.0",
       },
-      "directories": Object {},
       "dist": Object {
         "shasum": "d3c9054cc69759e3fe834fa613f6faf0f6ae5d71",
         "tarball": "https://registry.npmjs.org/browserify/-/browserify-3.1.3.tgz",
@@ -11291,7 +11144,6 @@ Object {
         "seq": "0.3.3",
         "tap": "~0.4.0",
       },
-      "directories": Object {},
       "dist": Object {
         "shasum": "bbb61c2d5bfac696fefc810af2a7e5dd70679452",
         "tarball": "https://registry.npmjs.org/browserify/-/browserify-3.10.0.tgz",
@@ -11352,7 +11204,6 @@ Object {
         "seq": "0.3.3",
         "tap": "~0.4.0",
       },
-      "directories": Object {},
       "dist": Object {
         "shasum": "5560cef4cf50f8825da5d1e3c0e86fc56a93cced",
         "tarball": "https://registry.npmjs.org/browserify/-/browserify-3.11.0.tgz",
@@ -11413,7 +11264,6 @@ Object {
         "seq": "0.3.3",
         "tap": "~0.4.0",
       },
-      "directories": Object {},
       "dist": Object {
         "shasum": "19e3587181efc3672b915a587cb803bcdd3ef2d5",
         "tarball": "https://registry.npmjs.org/browserify/-/browserify-3.11.1.tgz",
@@ -11474,7 +11324,6 @@ Object {
         "seq": "0.3.3",
         "tap": "~0.4.0",
       },
-      "directories": Object {},
       "dist": Object {
         "shasum": "4aef1199a009c00a1fdcf866f63ba9a21ec64676",
         "tarball": "https://registry.npmjs.org/browserify/-/browserify-3.12.0.tgz",
@@ -11535,7 +11384,6 @@ Object {
         "seq": "0.3.3",
         "tap": "~0.4.0",
       },
-      "directories": Object {},
       "dist": Object {
         "shasum": "b32982e38b6a6086d502270b42097bccf39cbc36",
         "tarball": "https://registry.npmjs.org/browserify/-/browserify-3.13.0.tgz",
@@ -11596,7 +11444,6 @@ Object {
         "seq": "0.3.3",
         "tap": "~0.4.0",
       },
-      "directories": Object {},
       "dist": Object {
         "shasum": "65651882f8731f626902b2d40b161c015cc8ff47",
         "tarball": "https://registry.npmjs.org/browserify/-/browserify-3.14.0.tgz",
@@ -11657,7 +11504,6 @@ Object {
         "seq": "0.3.3",
         "tap": "~0.4.0",
       },
-      "directories": Object {},
       "dist": Object {
         "shasum": "9bb8870f5a54f416eef4d0314ac9701a0ab1a97b",
         "tarball": "https://registry.npmjs.org/browserify/-/browserify-3.14.1.tgz",
@@ -11718,7 +11564,6 @@ Object {
         "seq": "0.3.3",
         "tap": "~0.4.0",
       },
-      "directories": Object {},
       "dist": Object {
         "shasum": "f3a8f7b2fc2319a8a2da0dbc63838591ac2f9151",
         "tarball": "https://registry.npmjs.org/browserify/-/browserify-3.16.0.tgz",
@@ -11779,7 +11624,6 @@ Object {
         "seq": "0.3.3",
         "tap": "~0.4.0",
       },
-      "directories": Object {},
       "dist": Object {
         "shasum": "0eecada55724edd76f53d6f8a34c788057519386",
         "tarball": "https://registry.npmjs.org/browserify/-/browserify-3.16.1.tgz",
@@ -11840,7 +11684,6 @@ Object {
         "seq": "0.3.3",
         "tap": "~0.4.0",
       },
-      "directories": Object {},
       "dist": Object {
         "shasum": "66cc4b68327b9779564f5caa683da8af61cb1af3",
         "tarball": "https://registry.npmjs.org/browserify/-/browserify-3.17.0.tgz",
@@ -11901,7 +11744,6 @@ Object {
         "seq": "0.3.3",
         "tap": "~0.4.0",
       },
-      "directories": Object {},
       "dist": Object {
         "shasum": "1cb1aeb6dcbfe1f486faf564e40d474611c11477",
         "tarball": "https://registry.npmjs.org/browserify/-/browserify-3.18.0.tgz",
@@ -11962,7 +11804,6 @@ Object {
         "seq": "0.3.3",
         "tap": "~0.4.0",
       },
-      "directories": Object {},
       "dist": Object {
         "shasum": "35c390ad82340cb5f9abd7b8c8b39cb75555060f",
         "tarball": "https://registry.npmjs.org/browserify/-/browserify-3.19.0.tgz",
@@ -12023,7 +11864,6 @@ Object {
         "seq": "0.3.3",
         "tap": "~0.4.0",
       },
-      "directories": Object {},
       "dist": Object {
         "shasum": "e4e994f7c8313432df46b1a2b029d8bab13a456b",
         "tarball": "https://registry.npmjs.org/browserify/-/browserify-3.19.1.tgz",
@@ -12082,7 +11922,6 @@ Object {
         "seq": "0.3.3",
         "tap": "~0.4.0",
       },
-      "directories": Object {},
       "dist": Object {
         "shasum": "02f5cf6d18a0bcdd9a11ba160c5a715165fcf263",
         "tarball": "https://registry.npmjs.org/browserify/-/browserify-3.2.0.tgz",
@@ -12141,7 +11980,6 @@ Object {
         "seq": "0.3.3",
         "tap": "~0.4.0",
       },
-      "directories": Object {},
       "dist": Object {
         "shasum": "c346573ca7208621ae07336965294adf5f93b961",
         "tarball": "https://registry.npmjs.org/browserify/-/browserify-3.2.1.tgz",
@@ -12200,7 +12038,6 @@ Object {
         "seq": "0.3.3",
         "tap": "~0.4.0",
       },
-      "directories": Object {},
       "dist": Object {
         "shasum": "4df90306ef2a4825a306e03266ec6fe307ae32e5",
         "tarball": "https://registry.npmjs.org/browserify/-/browserify-3.2.2.tgz",
@@ -12261,7 +12098,6 @@ Object {
         "seq": "0.3.3",
         "tap": "~0.4.0",
       },
-      "directories": Object {},
       "dist": Object {
         "shasum": "68d2b4d1e920edfb7d28ee9003ea82143fed54b0",
         "tarball": "https://registry.npmjs.org/browserify/-/browserify-3.20.0.tgz",
@@ -12322,7 +12158,6 @@ Object {
         "seq": "0.3.3",
         "tap": "~0.4.0",
       },
-      "directories": Object {},
       "dist": Object {
         "shasum": "b2028beabe173cd3fee039d7595ff1fa2239f14f",
         "tarball": "https://registry.npmjs.org/browserify/-/browserify-3.20.1.tgz",
@@ -12383,7 +12218,6 @@ Object {
         "seq": "0.3.3",
         "tap": "~0.4.0",
       },
-      "directories": Object {},
       "dist": Object {
         "shasum": "9b0e5a99c6652ad29e2eb22cab8520128eedc31d",
         "tarball": "https://registry.npmjs.org/browserify/-/browserify-3.20.2.tgz",
@@ -12444,7 +12278,6 @@ Object {
         "seq": "0.3.3",
         "tap": "~0.4.0",
       },
-      "directories": Object {},
       "dist": Object {
         "shasum": "edd0d60c304c0a81b3231685a140c36f1921cc47",
         "tarball": "https://registry.npmjs.org/browserify/-/browserify-3.21.0.tgz",
@@ -12505,7 +12338,6 @@ Object {
         "seq": "0.3.3",
         "tap": "~0.4.0",
       },
-      "directories": Object {},
       "dist": Object {
         "shasum": "10c5d054be962474d9bab1e9a7f3db95e6a8fe27",
         "tarball": "https://registry.npmjs.org/browserify/-/browserify-3.21.1.tgz",
@@ -12566,7 +12398,6 @@ Object {
         "seq": "0.3.3",
         "tap": "~0.4.0",
       },
-      "directories": Object {},
       "dist": Object {
         "shasum": "814f5741d522deb17a595c23408e7da730adb016",
         "tarball": "https://registry.npmjs.org/browserify/-/browserify-3.22.0.tgz",
@@ -12627,7 +12458,6 @@ Object {
         "seq": "0.3.3",
         "tap": "~0.4.0",
       },
-      "directories": Object {},
       "dist": Object {
         "shasum": "40c518b4a2f66912b4f5c3a740fba3cfe01648c2",
         "tarball": "https://registry.npmjs.org/browserify/-/browserify-3.22.1.tgz",
@@ -12688,7 +12518,6 @@ Object {
         "seq": "0.3.3",
         "tap": "~0.4.0",
       },
-      "directories": Object {},
       "dist": Object {
         "shasum": "55bd8b2a186234da6feddbac4582571af463674c",
         "tarball": "https://registry.npmjs.org/browserify/-/browserify-3.23.0.tgz",
@@ -12749,7 +12578,6 @@ Object {
         "seq": "0.3.3",
         "tap": "~0.4.0",
       },
-      "directories": Object {},
       "dist": Object {
         "shasum": "35d8b8518fbfbbcdd536c3faf9826d5c4e712f70",
         "tarball": "https://registry.npmjs.org/browserify/-/browserify-3.23.1.tgz",
@@ -12811,7 +12639,6 @@ Object {
         "seq": "0.3.3",
         "tap": "~0.4.0",
       },
-      "directories": Object {},
       "dist": Object {
         "shasum": "8893d2426d63048e00f3b61c802f8628314fbc2b",
         "tarball": "https://registry.npmjs.org/browserify/-/browserify-3.24.0.tgz",
@@ -12873,7 +12700,6 @@ Object {
         "seq": "0.3.3",
         "tap": "~0.4.0",
       },
-      "directories": Object {},
       "dist": Object {
         "shasum": "cb71bc730c521154d6579467bd5aa2f2e6370476",
         "tarball": "https://registry.npmjs.org/browserify/-/browserify-3.24.1.tgz",
@@ -12937,7 +12763,6 @@ Object {
         "seq": "0.3.3",
         "tap": "~0.4.0",
       },
-      "directories": Object {},
       "dist": Object {
         "shasum": "70662c7184d03d077c748c8fbd8f2125d2459467",
         "tarball": "https://registry.npmjs.org/browserify/-/browserify-3.24.10.tgz",
@@ -13001,7 +12826,6 @@ Object {
         "seq": "0.3.3",
         "tap": "~0.4.0",
       },
-      "directories": Object {},
       "dist": Object {
         "shasum": "06dda5c2923d3f443e3cbab8f6283d2f77eae0aa",
         "tarball": "https://registry.npmjs.org/browserify/-/browserify-3.24.11.tgz",
@@ -13065,7 +12889,6 @@ Object {
         "seq": "0.3.3",
         "tap": "~0.4.0",
       },
-      "directories": Object {},
       "dist": Object {
         "shasum": "d82012886791c4b1edd36612ad508a614e9ad86e",
         "tarball": "https://registry.npmjs.org/browserify/-/browserify-3.24.13.tgz",
@@ -13128,7 +12951,6 @@ Object {
         "seq": "0.3.3",
         "tap": "~0.4.0",
       },
-      "directories": Object {},
       "dist": Object {
         "shasum": "ec27450ba92ef13ed5a7bebba15d0247ff5fbf38",
         "tarball": "https://registry.npmjs.org/browserify/-/browserify-3.24.2.tgz",
@@ -13192,7 +13014,6 @@ Object {
         "seq": "0.3.3",
         "tap": "~0.4.0",
       },
-      "directories": Object {},
       "dist": Object {
         "shasum": "1abb551a7f3dbbc04a137704f6b70ea12f0eacc8",
         "tarball": "https://registry.npmjs.org/browserify/-/browserify-3.24.3.tgz",
@@ -13255,7 +13076,6 @@ Object {
         "seq": "0.3.3",
         "tap": "~0.4.0",
       },
-      "directories": Object {},
       "dist": Object {
         "shasum": "9e476ea276e7c461f793cd8d34a1facea181f28e",
         "tarball": "https://registry.npmjs.org/browserify/-/browserify-3.24.4.tgz",
@@ -13318,7 +13138,6 @@ Object {
         "seq": "0.3.3",
         "tap": "~0.4.0",
       },
-      "directories": Object {},
       "dist": Object {
         "shasum": "b92e14144869e2764a33ec8827fff42f2733e611",
         "tarball": "https://registry.npmjs.org/browserify/-/browserify-3.24.5.tgz",
@@ -13381,7 +13200,6 @@ Object {
         "seq": "0.3.3",
         "tap": "~0.4.0",
       },
-      "directories": Object {},
       "dist": Object {
         "shasum": "f1f912854c0d71ce21560e74bd3676bbd62e9a75",
         "tarball": "https://registry.npmjs.org/browserify/-/browserify-3.24.6.tgz",
@@ -13445,7 +13263,6 @@ Object {
         "seq": "0.3.3",
         "tap": "~0.4.0",
       },
-      "directories": Object {},
       "dist": Object {
         "shasum": "024f7b37459b72143bb2fc46b889c7bb7feb2f10",
         "tarball": "https://registry.npmjs.org/browserify/-/browserify-3.24.7.tgz",
@@ -13509,7 +13326,6 @@ Object {
         "seq": "0.3.3",
         "tap": "~0.4.0",
       },
-      "directories": Object {},
       "dist": Object {
         "shasum": "b0bfbd6166b01372da2938503b04ec167e83c928",
         "tarball": "https://registry.npmjs.org/browserify/-/browserify-3.24.8.tgz",
@@ -13573,7 +13389,6 @@ Object {
         "seq": "0.3.3",
         "tap": "~0.4.0",
       },
-      "directories": Object {},
       "dist": Object {
         "shasum": "01319f00bcfedb3ea3506356f2691935bb70c017",
         "tarball": "https://registry.npmjs.org/browserify/-/browserify-3.24.9.tgz",
@@ -13637,7 +13452,6 @@ Object {
         "seq": "0.3.3",
         "tap": "~0.4.0",
       },
-      "directories": Object {},
       "dist": Object {
         "shasum": "e45569b4192411890c8215cd7b0d47f6892a7801",
         "tarball": "https://registry.npmjs.org/browserify/-/browserify-3.25.0.tgz",
@@ -13701,7 +13515,6 @@ Object {
         "seq": "0.3.3",
         "tap": "~0.4.0",
       },
-      "directories": Object {},
       "dist": Object {
         "shasum": "90e8eac3fbd512896e6a003384a88c6271b6b6af",
         "tarball": "https://registry.npmjs.org/browserify/-/browserify-3.25.1.tgz",
@@ -13765,7 +13578,6 @@ Object {
         "seq": "0.3.3",
         "tap": "~0.4.0",
       },
-      "directories": Object {},
       "dist": Object {
         "shasum": "c7e1068b4e064068d6c1bdff156e974602904a1d",
         "tarball": "https://registry.npmjs.org/browserify/-/browserify-3.25.2.tgz",
@@ -13829,7 +13641,6 @@ Object {
         "seq": "0.3.3",
         "tap": "~0.4.0",
       },
-      "directories": Object {},
       "dist": Object {
         "shasum": "5ceecab11ea6859f66f3621c87866f6b3d68ab10",
         "tarball": "https://registry.npmjs.org/browserify/-/browserify-3.26.0.tgz",
@@ -13893,7 +13704,6 @@ Object {
         "seq": "0.3.3",
         "tap": "~0.4.0",
       },
-      "directories": Object {},
       "dist": Object {
         "shasum": "cf578fb5fdbc86c559efaf4557712d7be2d80006",
         "tarball": "https://registry.npmjs.org/browserify/-/browserify-3.27.0.tgz",
@@ -13958,7 +13768,6 @@ Object {
         "seq": "0.3.3",
         "tap": "~0.4.0",
       },
-      "directories": Object {},
       "dist": Object {
         "shasum": "ceebd5756be4f0eae402414416dbd49a830c565c",
         "tarball": "https://registry.npmjs.org/browserify/-/browserify-3.27.1.tgz",
@@ -14023,7 +13832,6 @@ Object {
         "seq": "0.3.3",
         "tap": "~0.4.0",
       },
-      "directories": Object {},
       "dist": Object {
         "shasum": "9a38117eb1707685011baf7ac9893ed03a9a6c30",
         "tarball": "https://registry.npmjs.org/browserify/-/browserify-3.28.0.tgz",
@@ -14088,7 +13896,6 @@ Object {
         "seq": "0.3.3",
         "tap": "~0.4.0",
       },
-      "directories": Object {},
       "dist": Object {
         "shasum": "8737c8e718522ad94256bce9a717fa3f81b4472c",
         "tarball": "https://registry.npmjs.org/browserify/-/browserify-3.28.1.tgz",
@@ -14153,7 +13960,6 @@ Object {
         "seq": "0.3.3",
         "tap": "~0.4.0",
       },
-      "directories": Object {},
       "dist": Object {
         "shasum": "599a099a880871cb72f986b81983411a0b28c6d3",
         "tarball": "https://registry.npmjs.org/browserify/-/browserify-3.28.2.tgz",
@@ -14219,7 +14025,6 @@ Object {
         "seq": "0.3.3",
         "tap": "~0.4.0",
       },
-      "directories": Object {},
       "dist": Object {
         "shasum": "2f1761322da351337f587ece593bfeeb88623773",
         "tarball": "https://registry.npmjs.org/browserify/-/browserify-3.29.0.tgz",
@@ -14285,7 +14090,6 @@ Object {
         "seq": "0.3.3",
         "tap": "~0.4.0",
       },
-      "directories": Object {},
       "dist": Object {
         "shasum": "8a92dd2a9300b1e4439fb87236395b1a5e3aea8f",
         "tarball": "https://registry.npmjs.org/browserify/-/browserify-3.29.1.tgz",
@@ -14344,7 +14148,6 @@ Object {
         "seq": "0.3.3",
         "tap": "~0.4.0",
       },
-      "directories": Object {},
       "dist": Object {
         "shasum": "d77e4fd515a66180b6429d9ecdbbc31dcb73c096",
         "tarball": "https://registry.npmjs.org/browserify/-/browserify-3.3.0.tgz",
@@ -14411,7 +14214,6 @@ Object {
         "seq": "0.3.3",
         "tap": "~0.4.0",
       },
-      "directories": Object {},
       "dist": Object {
         "shasum": "128306a6b64b4db4a7334b4c261c0d13f0fa37b5",
         "tarball": "https://registry.npmjs.org/browserify/-/browserify-3.30.0.tgz",
@@ -14478,7 +14280,6 @@ Object {
         "seq": "0.3.3",
         "tap": "~0.4.0",
       },
-      "directories": Object {},
       "dist": Object {
         "shasum": "0e536041f2d0d7b1f6bce2face6ee22e4b93dc41",
         "tarball": "https://registry.npmjs.org/browserify/-/browserify-3.30.1.tgz",
@@ -14546,7 +14347,6 @@ Object {
         "seq": "0.3.3",
         "tap": "~0.4.0",
       },
-      "directories": Object {},
       "dist": Object {
         "shasum": "1e770920df42faa88cc1957e9ee56e264c26aa9a",
         "tarball": "https://registry.npmjs.org/browserify/-/browserify-3.30.2.tgz",
@@ -14614,7 +14414,6 @@ Object {
         "seq": "0.3.3",
         "tap": "~0.4.0",
       },
-      "directories": Object {},
       "dist": Object {
         "shasum": "f04f57f5fea9195b649d0968d1caa30db85fc9e6",
         "tarball": "https://registry.npmjs.org/browserify/-/browserify-3.30.3.tgz",
@@ -14682,7 +14481,6 @@ Object {
         "seq": "0.3.3",
         "tap": "~0.4.0",
       },
-      "directories": Object {},
       "dist": Object {
         "shasum": "28424b87da3253b0bb85781c2fc4ffa2af7be0cb",
         "tarball": "https://registry.npmjs.org/browserify/-/browserify-3.30.4.tgz",
@@ -14750,7 +14548,6 @@ Object {
         "seq": "0.3.3",
         "tap": "~0.4.0",
       },
-      "directories": Object {},
       "dist": Object {
         "shasum": "1a31413496c6712cce78eb43a09ffe7558d590ac",
         "tarball": "https://registry.npmjs.org/browserify/-/browserify-3.31.0.tgz",
@@ -14818,7 +14615,6 @@ Object {
         "seq": "0.3.3",
         "tap": "~0.4.0",
       },
-      "directories": Object {},
       "dist": Object {
         "shasum": "1170f0a23fcc722c9c295c022fff0fa98c7f0829",
         "tarball": "https://registry.npmjs.org/browserify/-/browserify-3.31.1.tgz",
@@ -14886,7 +14682,6 @@ Object {
         "seq": "0.3.3",
         "tap": "~0.4.0",
       },
-      "directories": Object {},
       "dist": Object {
         "shasum": "ec5bbd7fff284645db59280c340d972868e0ab1b",
         "tarball": "https://registry.npmjs.org/browserify/-/browserify-3.31.2.tgz",
@@ -14955,7 +14750,6 @@ Object {
         "seq": "0.3.3",
         "tap": "~0.4.0",
       },
-      "directories": Object {},
       "dist": Object {
         "shasum": "36905de5674acb357873cf9021eb88de2ca643e5",
         "tarball": "https://registry.npmjs.org/browserify/-/browserify-3.32.0.tgz",
@@ -15024,7 +14818,6 @@ Object {
         "seq": "0.3.3",
         "tap": "~0.4.0",
       },
-      "directories": Object {},
       "dist": Object {
         "shasum": "5d4ad85d5cafee3fc1062e76e56143d0c298bfcb",
         "tarball": "https://registry.npmjs.org/browserify/-/browserify-3.32.1.tgz",
@@ -15094,7 +14887,6 @@ Object {
         "seq": "0.3.3",
         "tap": "~0.4.0",
       },
-      "directories": Object {},
       "dist": Object {
         "shasum": "cb56b4b819d7c64e07b37b9f9b72c91cc269ab72",
         "tarball": "https://registry.npmjs.org/browserify/-/browserify-3.33.0.tgz",
@@ -15164,7 +14956,6 @@ Object {
         "seq": "0.3.3",
         "tap": "~0.4.0",
       },
-      "directories": Object {},
       "dist": Object {
         "shasum": "d1395b7d3dd0901dd4e9a948bcc07597342493b4",
         "tarball": "https://registry.npmjs.org/browserify/-/browserify-3.33.1.tgz",
@@ -15234,7 +15025,6 @@ Object {
         "seq": "0.3.3",
         "tap": "~0.4.0",
       },
-      "directories": Object {},
       "dist": Object {
         "shasum": "221bd9973ecfafbea9bda35ce37da8ce9664e720",
         "tarball": "https://registry.npmjs.org/browserify/-/browserify-3.34.0.tgz",
@@ -15304,7 +15094,6 @@ Object {
         "seq": "0.3.3",
         "tap": "~0.4.0",
       },
-      "directories": Object {},
       "dist": Object {
         "shasum": "c34092428b764b76282bbc413f0c4669fc688927",
         "tarball": "https://registry.npmjs.org/browserify/-/browserify-3.35.0.tgz",
@@ -15375,7 +15164,6 @@ Object {
         "seq": "0.3.3",
         "tap": "~0.4.0",
       },
-      "directories": Object {},
       "dist": Object {
         "shasum": "e01b86e563718ca28ecbfb1341057d18bdefd797",
         "tarball": "https://registry.npmjs.org/browserify/-/browserify-3.36.0.tgz",
@@ -15446,7 +15234,6 @@ Object {
         "seq": "0.3.3",
         "tap": "~0.4.0",
       },
-      "directories": Object {},
       "dist": Object {
         "shasum": "25c254b0ea287dec98c2a076d310855a3bcd155f",
         "tarball": "https://registry.npmjs.org/browserify/-/browserify-3.36.1.tgz",
@@ -15517,7 +15304,6 @@ Object {
         "tap": "~0.4.0",
         "through": "~2.3.4",
       },
-      "directories": Object {},
       "dist": Object {
         "shasum": "4baedf816bcf0192f8daef5927cf02f81ce1ba8c",
         "tarball": "https://registry.npmjs.org/browserify/-/browserify-3.37.0.tgz",
@@ -15588,7 +15374,6 @@ Object {
         "tap": "~0.4.0",
         "through": "~2.3.4",
       },
-      "directories": Object {},
       "dist": Object {
         "shasum": "a05d5efa56f688b6ae48a9ec3c7e58bc24a4b4d5",
         "tarball": "https://registry.npmjs.org/browserify/-/browserify-3.37.1.tgz",
@@ -15659,7 +15444,6 @@ Object {
         "tap": "~0.4.0",
         "through": "~2.3.4",
       },
-      "directories": Object {},
       "dist": Object {
         "shasum": "79a9446193858aa15d237cb2c38c9e1aaf7ed7ba",
         "tarball": "https://registry.npmjs.org/browserify/-/browserify-3.37.2.tgz",
@@ -15730,7 +15514,6 @@ Object {
         "tap": "~0.4.0",
         "through": "~2.3.4",
       },
-      "directories": Object {},
       "dist": Object {
         "shasum": "90e43d16de7b9ec09599b259a80da6dc44199b21",
         "tarball": "https://registry.npmjs.org/browserify/-/browserify-3.38.0.tgz",
@@ -15801,7 +15584,6 @@ Object {
         "tap": "~0.4.0",
         "through": "~2.3.4",
       },
-      "directories": Object {},
       "dist": Object {
         "shasum": "4790937ec5b01f1c340e83521e36c4e3aaf3d7ba",
         "tarball": "https://registry.npmjs.org/browserify/-/browserify-3.38.1.tgz",
@@ -15872,7 +15654,6 @@ Object {
         "tap": "~0.4.0",
         "through": "~2.3.4",
       },
-      "directories": Object {},
       "dist": Object {
         "shasum": "8103c8b3723916c00518721847976ab6ca35e1c0",
         "tarball": "https://registry.npmjs.org/browserify/-/browserify-3.39.0.tgz",
@@ -15931,7 +15712,6 @@ Object {
         "seq": "0.3.3",
         "tap": "~0.4.0",
       },
-      "directories": Object {},
       "dist": Object {
         "shasum": "3ca71fcadcd75c8ec3b213058b9666c9b921a05e",
         "tarball": "https://registry.npmjs.org/browserify/-/browserify-3.4.0.tgz",
@@ -15990,7 +15770,6 @@ Object {
         "seq": "0.3.3",
         "tap": "~0.4.0",
       },
-      "directories": Object {},
       "dist": Object {
         "shasum": "1c915161b5779e206f0352c81aae938d538ce00d",
         "tarball": "https://registry.npmjs.org/browserify/-/browserify-3.4.1.tgz",
@@ -16061,7 +15840,6 @@ Object {
         "tap": "~0.4.0",
         "through": "~2.3.4",
       },
-      "directories": Object {},
       "dist": Object {
         "shasum": "2d03131eb6e54d0ca94411f2c7976b620ebf2c7e",
         "tarball": "https://registry.npmjs.org/browserify/-/browserify-3.40.0.tgz",
@@ -16132,7 +15910,6 @@ Object {
         "tap": "~0.4.0",
         "through": "~2.3.4",
       },
-      "directories": Object {},
       "dist": Object {
         "shasum": "dc0bcf29fcfdd11bf129c050713be09a91ace56a",
         "tarball": "https://registry.npmjs.org/browserify/-/browserify-3.40.1.tgz",
@@ -16203,7 +15980,6 @@ Object {
         "tap": "~0.4.0",
         "through": "~2.3.4",
       },
-      "directories": Object {},
       "dist": Object {
         "shasum": "34d64545766117d735ee3aa19c135fcbb47eca5f",
         "tarball": "https://registry.npmjs.org/browserify/-/browserify-3.40.2.tgz",
@@ -16274,7 +16050,6 @@ Object {
         "tap": "~0.4.0",
         "through": "~2.3.4",
       },
-      "directories": Object {},
       "dist": Object {
         "shasum": "f0fbdd0c44783255fc3009c813f3caa19b464fab",
         "tarball": "https://registry.npmjs.org/browserify/-/browserify-3.40.3.tgz",
@@ -16345,7 +16120,6 @@ Object {
         "tap": "~0.4.0",
         "through": "~2.3.4",
       },
-      "directories": Object {},
       "dist": Object {
         "shasum": "c79e151cb75663525a0efb0d1053542e9bf97c62",
         "tarball": "https://registry.npmjs.org/browserify/-/browserify-3.40.4.tgz",
@@ -16416,7 +16190,6 @@ Object {
         "tap": "~0.4.0",
         "through": "~2.3.4",
       },
-      "directories": Object {},
       "dist": Object {
         "shasum": "2193a793e753fa43dc42b4effb0410631645398e",
         "tarball": "https://registry.npmjs.org/browserify/-/browserify-3.41.0.tgz",
@@ -16487,7 +16260,6 @@ Object {
         "tap": "~0.4.0",
         "through": "~2.3.4",
       },
-      "directories": Object {},
       "dist": Object {
         "shasum": "011c8ddbb2e88d9413377589f4373e4a3a0f6cc8",
         "tarball": "https://registry.npmjs.org/browserify/-/browserify-3.42.0.tgz",
@@ -16558,7 +16330,6 @@ Object {
         "tap": "~0.4.0",
         "through": "~2.3.4",
       },
-      "directories": Object {},
       "dist": Object {
         "shasum": "6e4995f836da484474169391cfe7b2cc09129cac",
         "tarball": "https://registry.npmjs.org/browserify/-/browserify-3.43.0.tgz",
@@ -16629,7 +16400,6 @@ Object {
         "tap": "~0.4.0",
         "through": "~2.3.4",
       },
-      "directories": Object {},
       "dist": Object {
         "shasum": "a4b7b9350f5ac7574077a56110aa2a0d755a7eb6",
         "tarball": "https://registry.npmjs.org/browserify/-/browserify-3.44.0.tgz",
@@ -16700,7 +16470,6 @@ Object {
         "tap": "~0.4.0",
         "through": "~2.3.4",
       },
-      "directories": Object {},
       "dist": Object {
         "shasum": "e6ad85bd1e980e5c6aa30e27987536448dbc4d68",
         "tarball": "https://registry.npmjs.org/browserify/-/browserify-3.44.1.tgz",
@@ -16771,7 +16540,6 @@ Object {
         "tap": "~0.4.0",
         "through": "~2.3.4",
       },
-      "directories": Object {},
       "dist": Object {
         "shasum": "ffa2788d06e8073ffd734d94c3ae272ca3dd630a",
         "tarball": "https://registry.npmjs.org/browserify/-/browserify-3.44.2.tgz",
@@ -16842,7 +16610,6 @@ Object {
         "tap": "~0.4.0",
         "through": "~2.3.4",
       },
-      "directories": Object {},
       "dist": Object {
         "shasum": "cfd815fda7b9b7b756edc915b075dbe62ea8d147",
         "tarball": "https://registry.npmjs.org/browserify/-/browserify-3.45.0.tgz",
@@ -16913,7 +16680,6 @@ Object {
         "tap": "~0.4.0",
         "through": "~2.3.4",
       },
-      "directories": Object {},
       "dist": Object {
         "shasum": "dc32dd189efcb0b9e7ca88f5099b11654ab3c50f",
         "tarball": "https://registry.npmjs.org/browserify/-/browserify-3.46.0.tgz",
@@ -16986,7 +16752,6 @@ Object {
         "tap": "~0.4.0",
         "through": "~2.3.4",
       },
-      "directories": Object {},
       "dist": Object {
         "shasum": "2c2e4a7f2f408178e78c223b5b57b37c2185ad8e",
         "tarball": "https://registry.npmjs.org/browserify/-/browserify-3.46.1.tgz",
@@ -17046,7 +16811,6 @@ Object {
         "seq": "0.3.3",
         "tap": "~0.4.0",
       },
-      "directories": Object {},
       "dist": Object {
         "shasum": "ba5460b30874c327351b9115ca71b81810e28e3f",
         "tarball": "https://registry.npmjs.org/browserify/-/browserify-3.5.0.tgz",
@@ -17106,7 +16870,6 @@ Object {
         "seq": "0.3.3",
         "tap": "~0.4.0",
       },
-      "directories": Object {},
       "dist": Object {
         "shasum": "f2938b77916834bb9d7760d06458300bb47d67be",
         "tarball": "https://registry.npmjs.org/browserify/-/browserify-3.6.0.tgz",
@@ -17166,7 +16929,6 @@ Object {
         "seq": "0.3.3",
         "tap": "~0.4.0",
       },
-      "directories": Object {},
       "dist": Object {
         "shasum": "cd3a2f87a449ec5796b79532c0a04190aeff7c53",
         "tarball": "https://registry.npmjs.org/browserify/-/browserify-3.7.0.tgz",
@@ -17226,7 +16988,6 @@ Object {
         "seq": "0.3.3",
         "tap": "~0.4.0",
       },
-      "directories": Object {},
       "dist": Object {
         "shasum": "e345e8d1bacf9de561eb86914d861abadc645533",
         "tarball": "https://registry.npmjs.org/browserify/-/browserify-3.8.0.tgz",
@@ -17286,7 +17047,6 @@ Object {
         "seq": "0.3.3",
         "tap": "~0.4.0",
       },
-      "directories": Object {},
       "dist": Object {
         "shasum": "9379bae674e5c51056c76d82134afdad15d1082a",
         "tarball": "https://registry.npmjs.org/browserify/-/browserify-3.8.1.tgz",
@@ -17346,7 +17106,6 @@ Object {
         "seq": "0.3.3",
         "tap": "~0.4.0",
       },
-      "directories": Object {},
       "dist": Object {
         "shasum": "5fcbb196a3d26d7aa3e025e9578813e74e33accb",
         "tarball": "https://registry.npmjs.org/browserify/-/browserify-3.9.0.tgz",
@@ -17406,7 +17165,6 @@ Object {
         "seq": "0.3.3",
         "tap": "~0.4.0",
       },
-      "directories": Object {},
       "dist": Object {
         "shasum": "2d303945a5ad46cfd978ea400ed463fba5bce8a6",
         "tarball": "https://registry.npmjs.org/browserify/-/browserify-3.9.1.tgz",
@@ -17480,7 +17238,6 @@ Object {
         "tap": "~0.4.0",
         "through": "~2.3.4",
       },
-      "directories": Object {},
       "dist": Object {
         "shasum": "bddc365fb568b441909b17dd9b79edca365ecac5",
         "tarball": "https://registry.npmjs.org/browserify/-/browserify-4.0.0.tgz",
@@ -17554,7 +17311,6 @@ Object {
         "tap": "~0.4.0",
         "through": "~2.3.4",
       },
-      "directories": Object {},
       "dist": Object {
         "shasum": "2bf839eddc2fc4c71dd52cdc108d7afc40970180",
         "tarball": "https://registry.npmjs.org/browserify/-/browserify-4.1.0.tgz",
@@ -17628,7 +17384,6 @@ Object {
         "tap": "~0.4.0",
         "through": "~2.3.4",
       },
-      "directories": Object {},
       "dist": Object {
         "shasum": "0082426f9b3854b2da97245f7c94adb1d487ff84",
         "tarball": "https://registry.npmjs.org/browserify/-/browserify-4.1.1.tgz",
@@ -17702,7 +17457,6 @@ Object {
         "tap": "~0.4.0",
         "through": "~2.3.4",
       },
-      "directories": Object {},
       "dist": Object {
         "shasum": "25334c288af455f99d9968db30ba6a06b6f9d677",
         "tarball": "https://registry.npmjs.org/browserify/-/browserify-4.1.10.tgz",
@@ -17776,7 +17530,6 @@ Object {
         "tap": "~0.4.0",
         "through": "~2.3.4",
       },
-      "directories": Object {},
       "dist": Object {
         "shasum": "91652e0eabb43a8a69661f566ea35e356abbf6d1",
         "tarball": "https://registry.npmjs.org/browserify/-/browserify-4.1.11.tgz",
@@ -17850,7 +17603,6 @@ Object {
         "tap": "~0.4.0",
         "through": "~2.3.4",
       },
-      "directories": Object {},
       "dist": Object {
         "shasum": "a48c9e0578f0bbb58b0065ed673ada6d762f723b",
         "tarball": "https://registry.npmjs.org/browserify/-/browserify-4.1.2.tgz",
@@ -17924,7 +17676,6 @@ Object {
         "tap": "~0.4.0",
         "through": "~2.3.4",
       },
-      "directories": Object {},
       "dist": Object {
         "shasum": "1db619a80159136f6ccfd8cb7396a14144aed127",
         "tarball": "https://registry.npmjs.org/browserify/-/browserify-4.1.3.tgz",
@@ -17998,7 +17749,6 @@ Object {
         "tap": "~0.4.0",
         "through": "~2.3.4",
       },
-      "directories": Object {},
       "dist": Object {
         "shasum": "0a658f9c6971c4be0a114a4262c2ba86f5dc3ea7",
         "tarball": "https://registry.npmjs.org/browserify/-/browserify-4.1.4.tgz",
@@ -18072,7 +17822,6 @@ Object {
         "tap": "~0.4.0",
         "through": "~2.3.4",
       },
-      "directories": Object {},
       "dist": Object {
         "shasum": "8d177f71171e64467fddd89ba52a45e14ed59fd7",
         "tarball": "https://registry.npmjs.org/browserify/-/browserify-4.1.5.tgz",
@@ -18146,7 +17895,6 @@ Object {
         "tap": "~0.4.0",
         "through": "~2.3.4",
       },
-      "directories": Object {},
       "dist": Object {
         "shasum": "a81f3239a6988d57e771e53ff23a6dc5c92d9aa6",
         "tarball": "https://registry.npmjs.org/browserify/-/browserify-4.1.6.tgz",
@@ -18220,7 +17968,6 @@ Object {
         "tap": "~0.4.0",
         "through": "~2.3.4",
       },
-      "directories": Object {},
       "dist": Object {
         "shasum": "62d9deb3ebc17ee989e314d35e8842f5f8393b0e",
         "tarball": "https://registry.npmjs.org/browserify/-/browserify-4.1.7.tgz",
@@ -18294,7 +18041,6 @@ Object {
         "tap": "~0.4.0",
         "through": "~2.3.4",
       },
-      "directories": Object {},
       "dist": Object {
         "shasum": "fe567fd8493e25c0ab33985eb62595bc9be66780",
         "tarball": "https://registry.npmjs.org/browserify/-/browserify-4.1.8.tgz",
@@ -18368,7 +18114,6 @@ Object {
         "tap": "~0.4.0",
         "through": "~2.3.4",
       },
-      "directories": Object {},
       "dist": Object {
         "shasum": "c4a6a9113b1ed478123504314d656e9e4669269b",
         "tarball": "https://registry.npmjs.org/browserify/-/browserify-4.1.9.tgz",
@@ -18442,7 +18187,6 @@ Object {
         "tap": "~0.4.0",
         "through": "~2.3.4",
       },
-      "directories": Object {},
       "dist": Object {
         "shasum": "b23c9d630e941d89fff540f0c08a277168cc4eca",
         "tarball": "https://registry.npmjs.org/browserify/-/browserify-4.2.0.tgz",
@@ -18516,7 +18260,6 @@ Object {
         "tap": "~0.4.0",
         "through": "~2.3.4",
       },
-      "directories": Object {},
       "dist": Object {
         "shasum": "f82669185031132f1f3f3f8bfa658e5efb02574f",
         "tarball": "https://registry.npmjs.org/browserify/-/browserify-4.2.1.tgz",
@@ -18590,7 +18333,6 @@ Object {
         "tap": "~0.4.0",
         "through": "~2.3.4",
       },
-      "directories": Object {},
       "dist": Object {
         "shasum": "29e6f69a96606e3e886dd70dae2adef5ded7d65b",
         "tarball": "https://registry.npmjs.org/browserify/-/browserify-4.2.2.tgz",
@@ -18664,7 +18406,6 @@ Object {
         "tap": "~0.4.0",
         "through": "~2.3.4",
       },
-      "directories": Object {},
       "dist": Object {
         "shasum": "0e0d8f98e6df6a664aa2c055120f3848246ee4d0",
         "tarball": "https://registry.npmjs.org/browserify/-/browserify-4.2.3.tgz",
@@ -18740,7 +18481,6 @@ Object {
         "tap": "~0.4.0",
         "through": "^2.3.4",
       },
-      "directories": Object {},
       "dist": Object {
         "shasum": "491768b32f736b392174a351c4398dc0c8adf06f",
         "tarball": "https://registry.npmjs.org/browserify/-/browserify-5.0.0.tgz",
@@ -18816,7 +18556,6 @@ Object {
         "tap": "~0.4.0",
         "through": "^2.3.4",
       },
-      "directories": Object {},
       "dist": Object {
         "shasum": "202b010aa80c595e9f9a357f693f610d9ed10464",
         "tarball": "https://registry.npmjs.org/browserify/-/browserify-5.0.1.tgz",
@@ -18892,7 +18631,6 @@ Object {
         "tap": "~0.4.0",
         "through": "^2.3.4",
       },
-      "directories": Object {},
       "dist": Object {
         "shasum": "d9f7a1122db487b37a6e0b85513010e90d5aea69",
         "tarball": "https://registry.npmjs.org/browserify/-/browserify-5.0.2.tgz",
@@ -18968,7 +18706,6 @@ Object {
         "tap": "~0.4.0",
         "through": "^2.3.4",
       },
-      "directories": Object {},
       "dist": Object {
         "shasum": "61a5405cc50cfddb5266bef4ae526fa9890e9178",
         "tarball": "https://registry.npmjs.org/browserify/-/browserify-5.0.3.tgz",
@@ -19044,7 +18781,6 @@ Object {
         "tap": "~0.4.0",
         "through": "^2.3.4",
       },
-      "directories": Object {},
       "dist": Object {
         "shasum": "3e8679930ba7e1d71c7a0063ef2b4cf07b0095ce",
         "tarball": "https://registry.npmjs.org/browserify/-/browserify-5.0.4.tgz",
@@ -19120,7 +18856,6 @@ Object {
         "tap": "~0.4.0",
         "through": "^2.3.4",
       },
-      "directories": Object {},
       "dist": Object {
         "shasum": "61bf14d7b1bb5af3ca3f8616ee56e3e4f0fb47ba",
         "tarball": "https://registry.npmjs.org/browserify/-/browserify-5.0.5.tgz",
@@ -19196,7 +18931,6 @@ Object {
         "tap": "~0.4.0",
         "through": "^2.3.4",
       },
-      "directories": Object {},
       "dist": Object {
         "shasum": "978352ca5326ea42be477aa664e50582edf7311e",
         "tarball": "https://registry.npmjs.org/browserify/-/browserify-5.0.6.tgz",
@@ -19272,7 +19006,6 @@ Object {
         "tap": "~0.4.0",
         "through": "^2.3.4",
       },
-      "directories": Object {},
       "dist": Object {
         "shasum": "c50bad46703d3e5b8e02ff49d7bdc3397bd96e8d",
         "tarball": "https://registry.npmjs.org/browserify/-/browserify-5.0.7.tgz",
@@ -19348,7 +19081,6 @@ Object {
         "tap": "~0.4.0",
         "through": "^2.3.4",
       },
-      "directories": Object {},
       "dist": Object {
         "shasum": "2ea7813136fb2f2c57849e206740123b3287d43c",
         "tarball": "https://registry.npmjs.org/browserify/-/browserify-5.0.8.tgz",
@@ -19424,7 +19156,6 @@ Object {
         "tap": "~0.4.0",
         "through": "^2.3.4",
       },
-      "directories": Object {},
       "dist": Object {
         "shasum": "278fc82cb95309e1aed6f8ee8178a4403bbffde1",
         "tarball": "https://registry.npmjs.org/browserify/-/browserify-5.1.0.tgz",
@@ -19500,7 +19231,6 @@ Object {
         "tap": "~0.4.0",
         "through": "^2.3.4",
       },
-      "directories": Object {},
       "dist": Object {
         "shasum": "4fb4889147b2a85484fd85dbf94dfa09541aba90",
         "tarball": "https://registry.npmjs.org/browserify/-/browserify-5.1.1.tgz",
@@ -19576,7 +19306,6 @@ Object {
         "tap": "~0.4.0",
         "through": "^2.3.4",
       },
-      "directories": Object {},
       "dist": Object {
         "shasum": "346a76816f25d205c097a53e50da8136527bed84",
         "tarball": "https://registry.npmjs.org/browserify/-/browserify-5.10.0.tgz",
@@ -19652,7 +19381,6 @@ Object {
         "tap": "~0.4.0",
         "through": "^2.3.4",
       },
-      "directories": Object {},
       "dist": Object {
         "shasum": "a79cc8b647d6bfe25f96434ff8ecaeb5c01f6bae",
         "tarball": "https://registry.npmjs.org/browserify/-/browserify-5.10.1.tgz",
@@ -19728,7 +19456,6 @@ Object {
         "tap": "~0.4.0",
         "through": "^2.3.4",
       },
-      "directories": Object {},
       "dist": Object {
         "shasum": "178892ed515b9edbbebba729e5b2e82dc92f99ec",
         "tarball": "https://registry.npmjs.org/browserify/-/browserify-5.11.0.tgz",
@@ -19804,7 +19531,6 @@ Object {
         "tap": "~0.4.0",
         "through": "^2.3.4",
       },
-      "directories": Object {},
       "dist": Object {
         "shasum": "138119e82ae8fe7e6d9d518ee1720971b5926fcc",
         "tarball": "https://registry.npmjs.org/browserify/-/browserify-5.11.1.tgz",
@@ -19880,7 +19606,6 @@ Object {
         "tap": "~0.4.0",
         "through": "^2.3.4",
       },
-      "directories": Object {},
       "dist": Object {
         "shasum": "4dfbcb91e918a2a6728e5bbb0f98d9ca5a21cf8d",
         "tarball": "https://registry.npmjs.org/browserify/-/browserify-5.11.2.tgz",
@@ -19956,7 +19681,6 @@ Object {
         "tap": "~0.4.0",
         "through": "^2.3.4",
       },
-      "directories": Object {},
       "dist": Object {
         "shasum": "c7c04306e21b63f0e5a1f75c1662d4ffe023773a",
         "tarball": "https://registry.npmjs.org/browserify/-/browserify-5.12.0.tgz",
@@ -20032,7 +19756,6 @@ Object {
         "tap": "~0.4.0",
         "through": "^2.3.4",
       },
-      "directories": Object {},
       "dist": Object {
         "shasum": "54181cf6e777ad59e0fc62a62e2c7867d31603fb",
         "tarball": "https://registry.npmjs.org/browserify/-/browserify-5.12.1.tgz",
@@ -20107,7 +19830,6 @@ Object {
         "tap": "~0.4.0",
         "through": "^2.3.4",
       },
-      "directories": Object {},
       "dist": Object {
         "shasum": "fa8222fa0e4a544cb3a911e75feeacd027ba2b07",
         "tarball": "https://registry.npmjs.org/browserify/-/browserify-5.12.2.tgz",
@@ -20182,7 +19904,6 @@ Object {
         "tap": "~0.4.0",
         "through": "^2.3.4",
       },
-      "directories": Object {},
       "dist": Object {
         "shasum": "9696b7db87053b954bff315533b67d6864198023",
         "tarball": "https://registry.npmjs.org/browserify/-/browserify-5.13.0.tgz",
@@ -20257,7 +19978,6 @@ Object {
         "tap": "~0.4.0",
         "through": "^2.3.4",
       },
-      "directories": Object {},
       "dist": Object {
         "shasum": "a238363824fa77054f65b96c92d199bff0b6c76b",
         "tarball": "https://registry.npmjs.org/browserify/-/browserify-5.13.1.tgz",
@@ -20333,7 +20053,6 @@ Object {
         "tap": "~0.4.0",
         "through": "^2.3.4",
       },
-      "directories": Object {},
       "dist": Object {
         "shasum": "f3c0ad609094f0636ceed962f970563002230a44",
         "tarball": "https://registry.npmjs.org/browserify/-/browserify-5.2.0.tgz",
@@ -20409,7 +20128,6 @@ Object {
         "tap": "~0.4.0",
         "through": "^2.3.4",
       },
-      "directories": Object {},
       "dist": Object {
         "shasum": "ccc3cb42820f30e709499b15f5b689a9690125d7",
         "tarball": "https://registry.npmjs.org/browserify/-/browserify-5.2.1.tgz",
@@ -20485,7 +20203,6 @@ Object {
         "tap": "~0.4.0",
         "through": "^2.3.4",
       },
-      "directories": Object {},
       "dist": Object {
         "shasum": "489962aa2d36217d59264989681afc32ac880985",
         "tarball": "https://registry.npmjs.org/browserify/-/browserify-5.3.0.tgz",
@@ -20561,7 +20278,6 @@ Object {
         "tap": "~0.4.0",
         "through": "^2.3.4",
       },
-      "directories": Object {},
       "dist": Object {
         "shasum": "87d40424827e86433dfc8dca8f9e00b05d528ff1",
         "tarball": "https://registry.npmjs.org/browserify/-/browserify-5.4.0.tgz",
@@ -20637,7 +20353,6 @@ Object {
         "tap": "~0.4.0",
         "through": "^2.3.4",
       },
-      "directories": Object {},
       "dist": Object {
         "shasum": "2baf033f4f1f2e75ad0360c9497df5f6b8043a0f",
         "tarball": "https://registry.npmjs.org/browserify/-/browserify-5.4.1.tgz",
@@ -20713,7 +20428,6 @@ Object {
         "tap": "~0.4.0",
         "through": "^2.3.4",
       },
-      "directories": Object {},
       "dist": Object {
         "shasum": "74ab70e3a029004150a4ecb870a615cb3a094418",
         "tarball": "https://registry.npmjs.org/browserify/-/browserify-5.4.2.tgz",
@@ -20789,7 +20503,6 @@ Object {
         "tap": "~0.4.0",
         "through": "^2.3.4",
       },
-      "directories": Object {},
       "dist": Object {
         "shasum": "41ddd07846d006782eba6bc1fdeb801f9a7590da",
         "tarball": "https://registry.npmjs.org/browserify/-/browserify-5.5.0.tgz",
@@ -20865,7 +20578,6 @@ Object {
         "tap": "~0.4.0",
         "through": "^2.3.4",
       },
-      "directories": Object {},
       "dist": Object {
         "shasum": "07b46fbe4d9aa5491d92cb77b9a603f2f2ec1ee6",
         "tarball": "https://registry.npmjs.org/browserify/-/browserify-5.6.0.tgz",
@@ -20941,7 +20653,6 @@ Object {
         "tap": "~0.4.0",
         "through": "^2.3.4",
       },
-      "directories": Object {},
       "dist": Object {
         "shasum": "73828348e5f37b3000dafc6fcfcd076101e4c19c",
         "tarball": "https://registry.npmjs.org/browserify/-/browserify-5.6.1.tgz",
@@ -21017,7 +20728,6 @@ Object {
         "tap": "~0.4.0",
         "through": "^2.3.4",
       },
-      "directories": Object {},
       "dist": Object {
         "shasum": "e3c812fffedd4cf984e4f1012391916c29b11276",
         "tarball": "https://registry.npmjs.org/browserify/-/browserify-5.7.0.tgz",
@@ -21093,7 +20803,6 @@ Object {
         "tap": "~0.4.0",
         "through": "^2.3.4",
       },
-      "directories": Object {},
       "dist": Object {
         "shasum": "a3e541143900541e0a0d7d8063b932b8d608be10",
         "tarball": "https://registry.npmjs.org/browserify/-/browserify-5.8.0.tgz",
@@ -21169,7 +20878,6 @@ Object {
         "tap": "~0.4.0",
         "through": "^2.3.4",
       },
-      "directories": Object {},
       "dist": Object {
         "shasum": "d5f7a4feca6aefd1989d1305dcdb94a9765f4b6c",
         "tarball": "https://registry.npmjs.org/browserify/-/browserify-5.9.0.tgz",
@@ -21245,7 +20953,6 @@ Object {
         "tap": "~0.4.0",
         "through": "^2.3.4",
       },
-      "directories": Object {},
       "dist": Object {
         "shasum": "fb4eea5a2e8e855860389f99f4f832918f6e7640",
         "tarball": "https://registry.npmjs.org/browserify/-/browserify-5.9.1.tgz",
@@ -21321,7 +21028,6 @@ Object {
         "tap": "~0.4.0",
         "through": "^2.3.4",
       },
-      "directories": Object {},
       "dist": Object {
         "shasum": "b0b451bca3182fcdae383bc3fea5eb93a93dc103",
         "tarball": "https://registry.npmjs.org/browserify/-/browserify-5.9.2.tgz",
@@ -21397,7 +21103,6 @@ Object {
         "tap": "~0.4.0",
         "through": "^2.3.4",
       },
-      "directories": Object {},
       "dist": Object {
         "shasum": "b3032b848abb94db06e83ae483a9d55c62758312",
         "tarball": "https://registry.npmjs.org/browserify/-/browserify-5.9.3.tgz",
@@ -21472,7 +21177,6 @@ Object {
         "tap": "~0.4.0",
         "through": "^2.3.4",
       },
-      "directories": Object {},
       "dist": Object {
         "shasum": "5c171dbc20b92321b340a690c51541576a423317",
         "tarball": "https://registry.npmjs.org/browserify/-/browserify-6.0.0.tgz",
@@ -21547,7 +21251,6 @@ Object {
         "tap": "~0.4.0",
         "through": "^2.3.4",
       },
-      "directories": Object {},
       "dist": Object {
         "shasum": "3f1eb3c8f483759b246e30e3c143e09d5a686ede",
         "tarball": "https://registry.npmjs.org/browserify/-/browserify-6.0.1.tgz",
@@ -21622,7 +21325,6 @@ Object {
         "tap": "~0.4.0",
         "through": "^2.3.4",
       },
-      "directories": Object {},
       "dist": Object {
         "shasum": "d6dd7a9f9e909f2e84163e544a9d1f358ddd9d58",
         "tarball": "https://registry.npmjs.org/browserify/-/browserify-6.0.2.tgz",
@@ -21697,7 +21399,6 @@ Object {
         "tap": "~0.4.0",
         "through": "^2.3.4",
       },
-      "directories": Object {},
       "dist": Object {
         "shasum": "156504b6d1958125a896419cb6783fedd113308c",
         "tarball": "https://registry.npmjs.org/browserify/-/browserify-6.0.3.tgz",
@@ -21772,7 +21473,6 @@ Object {
         "tap": "~0.4.0",
         "through": "^2.3.4",
       },
-      "directories": Object {},
       "dist": Object {
         "shasum": "8da16d98a0be638b5e53d1cd560f7f344d238cdb",
         "tarball": "https://registry.npmjs.org/browserify/-/browserify-6.1.0.tgz",
@@ -21847,7 +21547,6 @@ Object {
         "tap": "~0.4.0",
         "through": "^2.3.4",
       },
-      "directories": Object {},
       "dist": Object {
         "shasum": "ed77235e24df01bcff577e63ff6cac9e7a9d73bf",
         "tarball": "https://registry.npmjs.org/browserify/-/browserify-6.1.1.tgz",
@@ -21923,7 +21622,6 @@ Object {
         "tap": "~0.4.0",
         "through": "^2.3.4",
       },
-      "directories": Object {},
       "dist": Object {
         "shasum": "b64aeacf83624c39ac7c30c9e72ed82ff0373efe",
         "tarball": "https://registry.npmjs.org/browserify/-/browserify-6.1.2.tgz",
@@ -21999,7 +21697,6 @@ Object {
         "tap": "~0.4.0",
         "through": "^2.3.4",
       },
-      "directories": Object {},
       "dist": Object {
         "shasum": "e1ab4c357f7751ed8d1503a08cb1d55217bcdd64",
         "tarball": "https://registry.npmjs.org/browserify/-/browserify-6.2.0.tgz",
@@ -22075,7 +21772,6 @@ Object {
         "tap": "~0.4.0",
         "through": "^2.3.4",
       },
-      "directories": Object {},
       "dist": Object {
         "shasum": "5d53c4b022faec50ef1c0b4c5f818de9c84246fc",
         "tarball": "https://registry.npmjs.org/browserify/-/browserify-6.3.0.tgz",
@@ -22151,7 +21847,6 @@ Object {
         "tap": "~0.4.0",
         "through": "^2.3.4",
       },
-      "directories": Object {},
       "dist": Object {
         "shasum": "95e210d5f9be85bba1a27b037dee494b4a5c51da",
         "tarball": "https://registry.npmjs.org/browserify/-/browserify-6.3.1.tgz",
@@ -22227,7 +21922,6 @@ Object {
         "tap": "~0.4.0",
         "through": "^2.3.4",
       },
-      "directories": Object {},
       "dist": Object {
         "shasum": "0f149ba9d70c8508a9939607e0da73f0c6dffbee",
         "tarball": "https://registry.npmjs.org/browserify/-/browserify-6.3.2.tgz",
@@ -22303,7 +21997,6 @@ Object {
         "tap": "~0.4.0",
         "through": "^2.3.4",
       },
-      "directories": Object {},
       "dist": Object {
         "shasum": "d2a5031a24aec8045eb8174b501bf3f6248455d4",
         "tarball": "https://registry.npmjs.org/browserify/-/browserify-6.3.3.tgz",
@@ -22379,7 +22072,6 @@ Object {
         "tap": "~0.4.0",
         "through": "^2.3.4",
       },
-      "directories": Object {},
       "dist": Object {
         "shasum": "57b5d195cc568139e971302e5cd9d58ddafb54d8",
         "tarball": "https://registry.npmjs.org/browserify/-/browserify-6.3.4.tgz",
@@ -22455,7 +22147,6 @@ Object {
         "tap": "~0.4.0",
         "through": "^2.3.4",
       },
-      "directories": Object {},
       "dist": Object {
         "shasum": "3c7e2020ee383c0cbe8c909cd83714a7a8c852ef",
         "tarball": "https://registry.npmjs.org/browserify/-/browserify-7.0.0.tgz",
@@ -22531,7 +22222,6 @@ Object {
         "tap": "~0.4.0",
         "through": "^2.3.4",
       },
-      "directories": Object {},
       "dist": Object {
         "shasum": "2720a5d7151a518ead77c2a9d6a9e0d09ffaa85f",
         "tarball": "https://registry.npmjs.org/browserify/-/browserify-7.0.1.tgz",
@@ -22607,7 +22297,6 @@ Object {
         "tap": "~0.4.0",
         "through": "^2.3.4",
       },
-      "directories": Object {},
       "dist": Object {
         "shasum": "e074d9d7754ec368a76d654240c17b6728f22287",
         "tarball": "https://registry.npmjs.org/browserify/-/browserify-7.0.2.tgz",
@@ -22683,7 +22372,6 @@ Object {
         "tap": "~0.4.0",
         "through": "^2.3.4",
       },
-      "directories": Object {},
       "dist": Object {
         "shasum": "b839f84ed22c24b67f79af68002e5684c73d534e",
         "tarball": "https://registry.npmjs.org/browserify/-/browserify-7.0.3.tgz",
@@ -22759,7 +22447,6 @@ Object {
         "tap": "~0.4.0",
         "through": "^2.3.4",
       },
-      "directories": Object {},
       "dist": Object {
         "shasum": "1660775c93c3efeaeb42f3c6638a6c4c2b414f14",
         "tarball": "https://registry.npmjs.org/browserify/-/browserify-7.1.0.tgz",
@@ -22835,7 +22522,6 @@ Object {
         "tap": "~0.4.0",
         "through": "^2.3.4",
       },
-      "directories": Object {},
       "dist": Object {
         "shasum": "99ef6ffd8569446ebcceb4ab771d54f9b382c404",
         "tarball": "https://registry.npmjs.org/browserify/-/browserify-8.0.0.tgz",
@@ -22911,7 +22597,6 @@ Object {
         "tap": "~0.4.0",
         "through": "^2.3.4",
       },
-      "directories": Object {},
       "dist": Object {
         "shasum": "7e5e97efa8152a1ba07bbca246c5c1a4b8321c3c",
         "tarball": "https://registry.npmjs.org/browserify/-/browserify-8.0.1.tgz",
@@ -22987,7 +22672,6 @@ Object {
         "tap": "~0.4.0",
         "through": "^2.3.4",
       },
-      "directories": Object {},
       "dist": Object {
         "shasum": "c87aa3c1f085e7c316fc545b26acc05284f5f937",
         "tarball": "https://registry.npmjs.org/browserify/-/browserify-8.0.2.tgz",
@@ -23063,7 +22747,6 @@ Object {
         "tap": "~0.4.0",
         "through": "^2.3.4",
       },
-      "directories": Object {},
       "dist": Object {
         "shasum": "d2c95ddedc177707f63cbd0b1b6b6184fa7d0cdd",
         "tarball": "https://registry.npmjs.org/browserify/-/browserify-8.0.3.tgz",
@@ -23139,7 +22822,6 @@ Object {
         "tap": "~0.4.0",
         "through": "^2.3.4",
       },
-      "directories": Object {},
       "dist": Object {
         "shasum": "e8d966c0eb47a3e3e8a98deeff08812715033112",
         "tarball": "https://registry.npmjs.org/browserify/-/browserify-8.1.0.tgz",
@@ -23215,7 +22897,6 @@ Object {
         "tap": "~0.4.0",
         "through": "^2.3.4",
       },
-      "directories": Object {},
       "dist": Object {
         "shasum": "3b1f8e1d47a0037908d4feaac7e7d76c55ba4678",
         "tarball": "https://registry.npmjs.org/browserify/-/browserify-8.1.1.tgz",
@@ -23291,7 +22972,6 @@ Object {
         "tap": "~0.4.0",
         "through": "^2.3.4",
       },
-      "directories": Object {},
       "dist": Object {
         "shasum": "1ec66990d512b26e1d96832888fbc97bdc1afc66",
         "tarball": "https://registry.npmjs.org/browserify/-/browserify-8.1.2.tgz",
@@ -23367,7 +23047,6 @@ Object {
         "tap": "~0.4.0",
         "through": "^2.3.4",
       },
-      "directories": Object {},
       "dist": Object {
         "shasum": "f33a549a3a6c368219b075fdcfe6df195e049a9a",
         "tarball": "https://registry.npmjs.org/browserify/-/browserify-8.1.3.tgz",
@@ -23442,7 +23121,6 @@ Object {
         "tap": "~0.4.0",
         "through": "^2.3.4",
       },
-      "directories": Object {},
       "dist": Object {
         "shasum": "eb323e4c85a594614b214a43922fc79da6233b0c",
         "tarball": "https://registry.npmjs.org/browserify/-/browserify-9.0.0.tgz",
@@ -23517,7 +23195,6 @@ Object {
         "tap": "~0.4.0",
         "through": "^2.3.4",
       },
-      "directories": Object {},
       "dist": Object {
         "shasum": "8ebe32efad61e5dde91f7f7aae082cdb463ba9da",
         "tarball": "https://registry.npmjs.org/browserify/-/browserify-9.0.1.tgz",
@@ -23592,7 +23269,6 @@ Object {
         "tap": "~0.4.0",
         "through": "^2.3.4",
       },
-      "directories": Object {},
       "dist": Object {
         "shasum": "7fd4b76f44b62d5aec190c822b8e600ebcb944e1",
         "tarball": "https://registry.npmjs.org/browserify/-/browserify-9.0.2.tgz",
@@ -23667,7 +23343,6 @@ Object {
         "tap": "~0.4.0",
         "through": "^2.3.4",
       },
-      "directories": Object {},
       "dist": Object {
         "shasum": "f2f742b82ec5631c64b8c98a9788db0017c6517c",
         "tarball": "https://registry.npmjs.org/browserify/-/browserify-9.0.3.tgz",
@@ -23741,7 +23416,6 @@ Object {
         "temp": "^0.8.1",
         "through": "^2.3.4",
       },
-      "directories": Object {},
       "dist": Object {
         "shasum": "e58da3d5fe415bafa5734d1cb8e8c9d0ddb27d43",
         "tarball": "https://registry.npmjs.org/browserify/-/browserify-9.0.4.tgz",
@@ -23817,7 +23491,6 @@ Object {
         "temp": "^0.8.1",
         "through": "^2.3.4",
       },
-      "directories": Object {},
       "dist": Object {
         "shasum": "f1568123a1cc5ef7cc9878ef999fd32c06ddf0fa",
         "tarball": "https://registry.npmjs.org/browserify/-/browserify-9.0.5.tgz",
@@ -23893,7 +23566,6 @@ Object {
         "temp": "^0.8.1",
         "through": "^2.3.4",
       },
-      "directories": Object {},
       "dist": Object {
         "shasum": "14f908594aca0b68c5360fdad909b493e54183a4",
         "tarball": "https://registry.npmjs.org/browserify/-/browserify-9.0.6.tgz",
@@ -23969,7 +23641,6 @@ Object {
         "temp": "^0.8.1",
         "through": "^2.3.4",
       },
-      "directories": Object {},
       "dist": Object {
         "shasum": "7891d3b313c2139f16b44ec5b29f1d66d52c6fd8",
         "tarball": "https://registry.npmjs.org/browserify/-/browserify-9.0.7.tgz",
@@ -24045,7 +23716,6 @@ Object {
         "temp": "^0.8.1",
         "through": "^2.3.4",
       },
-      "directories": Object {},
       "dist": Object {
         "shasum": "91859e9f60384459ead554df89cff03c734f159b",
         "tarball": "https://registry.npmjs.org/browserify/-/browserify-9.0.8.tgz",
@@ -24092,6 +23762,7 @@ Object {
   "author": 464,
   "bugs": 254,
   "description": 464,
+  "directories": 313,
   "engine": 156,
   "files": 25,
   "gitHead": 101,
@@ -24100,6 +23771,7 @@ Object {
   "license": 464,
   "main": 464,
   "maintainers": 396,
+  "optionalDependencies": 17,
   "repository": 464,
   "scripts": 459,
 }

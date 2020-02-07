@@ -14,8 +14,6 @@ Object {
   "name": "ts-pnp",
   "versions": Object {
     "1.0.0": Object {
-      "_hasShrinkwrap": false,
-      "directories": Object {},
       "dist": Object {
         "fileCount": 5,
         "integrity": "sha512-qgwM7eBrxFvZSXLtSvjf3c2mXwJOOGD49VlE+KocUGX95DuMdLc/psZHBnPpZL5b2NU7VtQGHRCWF3cNfe5kxQ==",
@@ -34,8 +32,6 @@ Object {
       "version": "1.0.0",
     },
     "1.0.1": Object {
-      "_hasShrinkwrap": false,
-      "directories": Object {},
       "dist": Object {
         "fileCount": 5,
         "integrity": "sha512-Zzg9XH0anaqhNSlDRibNC8Kp+B9KNM0uRIpLpGkGyrgRIttA7zZBhotTSEoEyuDrz3QW2LGtu2dxuk34HzIGnQ==",
@@ -59,8 +55,6 @@ Object {
       "version": "1.0.1",
     },
     "1.1.0": Object {
-      "_hasShrinkwrap": false,
-      "directories": Object {},
       "dist": Object {
         "fileCount": 5,
         "integrity": "sha512-hJkGMrHwSZtk6gsRR3GUXBQ2vFTdO9SgL/e+rNFyvBsBLKl1J6bjRGt5+NW2f5yRTMW8so58nwvvs93nqi5sGw==",
@@ -79,8 +73,6 @@ Object {
       "version": "1.1.0",
     },
     "1.1.1": Object {
-      "_hasShrinkwrap": false,
-      "directories": Object {},
       "dist": Object {
         "fileCount": 5,
         "integrity": "sha512-mRX6DI6EWNdDhMiz+xlVFGn67bcbLSsAjtuCcp50EPS2mMsG8K2pISdUrZi+fSGNuitrJQO40osCRMjSjcuTcg==",
@@ -99,8 +91,6 @@ Object {
       "version": "1.1.1",
     },
     "1.1.2": Object {
-      "_hasShrinkwrap": false,
-      "directories": Object {},
       "dist": Object {
         "fileCount": 5,
         "integrity": "sha512-f5Knjh7XCyRIzoC/z1Su1yLLRrPrFCgtUAh/9fCSP6NKbATwpOL1+idQVXQokK9GRFURn/jYPGPfegIctwunoA==",
@@ -124,8 +114,6 @@ Object {
       "version": "1.1.2",
     },
     "1.1.3": Object {
-      "_hasShrinkwrap": false,
-      "directories": Object {},
       "dist": Object {
         "fileCount": 5,
         "integrity": "sha512-XsrA5UlgpV2SaiGr8u9eRdb511vS0j4yfqCpOaz3abAqUQ2HqkW51spQV9li5CD8iyRu1nV6qMxHWLevNnNxJA==",
@@ -149,11 +137,9 @@ Object {
       "version": "1.1.3",
     },
     "1.1.4": Object {
-      "_hasShrinkwrap": false,
       "devDependencies": Object {
         "typescript": "3.5.3",
       },
-      "directories": Object {},
       "dist": Object {
         "fileCount": 5,
         "integrity": "sha512-1J/vefLC+BWSo+qe8OnJQfWTYRS6ingxjwqmHMqaMxXMj7kFtKLgAaYW3JeX3mktjgUL+etlU8/B4VUAUI9QGw==",
@@ -199,11 +185,13 @@ Object {
 
 exports[`test/test.js test/fixtures/ts-pnp.js TAP > version diff 1`] = `
 Object {
+  "_hasShrinkwrap": 7,
   "_id": 7,
   "_npmOperationalInternal": 7,
   "_npmUser": 7,
   "bugs": 7,
   "description": 7,
+  "directories": 7,
   "homepage": 7,
   "keywords": 7,
   "license": 7,
