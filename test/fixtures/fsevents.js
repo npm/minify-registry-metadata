@@ -1000,7 +1000,7 @@ module.exports={
         "tap": "~0.4.8"
       },
       "gitHead": "ca7dc3eb29b151815d243328675d1e26f059fbc9",
-      "bundleDependencies": [
+      "bundledDependencies": [
         "node-pre-gyp"
       ],
       "_id": "fsevents@1.0.0",
