@@ -137,9 +137,6 @@ Object {
       "version": "1.1.3",
     },
     "1.1.4": Object {
-      "devDependencies": Object {
-        "typescript": "3.5.3",
-      },
       "dist": Object {
         "fileCount": 5,
         "integrity": "sha512-1J/vefLC+BWSo+qe8OnJQfWTYRS6ingxjwqmHMqaMxXMj7kFtKLgAaYW3JeX3mktjgUL+etlU8/B4VUAUI9QGw==",
@@ -191,6 +188,7 @@ Object {
   "_npmUser": 7,
   "bugs": 7,
   "description": 7,
+  "devDependencies": 1,
   "directories": 7,
   "homepage": 7,
   "keywords": 7,

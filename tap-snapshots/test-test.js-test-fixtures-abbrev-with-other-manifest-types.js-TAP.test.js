@@ -54,9 +54,6 @@ Object {
       "version": "1.0.6",
     },
     "1.0.7": Object {
-      "devDependencies": Object {
-        "tap": "^1.2.0",
-      },
       "dist": Object {
         "shasum": "5b6035b2ee9d4fb5cf859f08a9be81b208491843",
         "tarball": "https://registry.npmjs.org/abbrev/-/abbrev-1.0.7.tgz",
@@ -65,9 +62,6 @@ Object {
       "version": "1.0.7",
     },
     "1.0.9": Object {
-      "devDependencies": Object {
-        "tap": "^5.7.2",
-      },
       "dist": Object {
         "shasum": "91b4792588a7738c25f35dd6f63752a2f8776135",
         "tarball": "https://registry.npmjs.org/abbrev/-/abbrev-1.0.9.tgz",
@@ -76,9 +70,6 @@ Object {
       "version": "1.0.9",
     },
     "1.1.0": Object {
-      "devDependencies": Object {
-        "tap": "^10.1",
-      },
       "dist": Object {
         "shasum": "d0554c2256636e2f56e7c2e5ad183f859428d81f",
         "tarball": "https://registry.npmjs.org/abbrev/-/abbrev-1.1.0.tgz",
@@ -87,9 +78,6 @@ Object {
       "version": "1.1.0",
     },
     "1.1.1": Object {
-      "devDependencies": Object {
-        "tap": "^10.1",
-      },
       "dist": Object {
         "integrity": "sha512-nne9/IiQ/hzIhY6pdDnbBtz7DjPTKrY00P/zvPSm5pOFkl6xuGrGnXn/VtTNNfNtAfZ9/1RtehkszU9qcTii0Q==",
         "shasum": "f8f2c887ad10bf67f634f005b6987fed3179aac8",
@@ -133,6 +121,7 @@ Object {
   "author": 7,
   "bugs": 6,
   "description": 7,
+  "devDependencies": 4,
   "directories": 7,
   "files": 3,
   "gitHead": 5,

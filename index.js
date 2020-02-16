@@ -11,7 +11,6 @@ const manifestKeep = [
   'version',
   'dependencies',
   'optionalDependencies',
-  'devDependencies',
   'bundleDependencies',
   'peerDependencies',
   'acceptDependencies',
