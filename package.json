@@ -3,32 +3,49 @@
   "description": "minimal regsitry packuments. :corgi:",
   "version": "2.2.0",
   "devDependencies": {
+    "@npmcli/eslint-config": "^4.0.0",
+    "@npmcli/template-oss": "4.6.0",
     "changes-stream": "^2.2.0",
     "concurrent-couch-follower": "^1.2.0",
     "normalize-registry-metadata": "^1.1.2",
     "request": "^2.80.0",
-    "tap": "^14.10.6"
+    "tap": "^16.3.0"
   },
   "license": "ISC",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/npm/minify-registry-metadata.git"
+    "url": "https://github.com/npm/minify-registry-metadata.git"
   },
   "scripts": {
-    "test": "tap test/fixtures/*.js",
-    "snap": "tap test/fixtures/*.js",
-    "preversion": "npm test",
-    "postversion": "npm publish",
-    "postpublish": "git push origin --follow-tags"
+    "test": "tap",
+    "snap": "tap",
+    "lint": "eslint \"**/*.js\"",
+    "postlint": "template-oss-check",
+    "template-oss-apply": "template-oss-apply --force",
+    "lintfix": "npm run lint -- --fix",
+    "posttest": "npm run lint"
   },
   "tap": {
     "node-arg": [
       "test/test.js"
     ],
-    "check-coverage": true
+    "check-coverage": true,
+    "nyc-arg": [
+      "--exclude",
+      "tap-snapshots/**"
+    ]
   },
   "files": [
-    "index.js"
-  ]
+    "bin/",
+    "lib/"
+  ],
+  "author": "GitHub Inc.",
+  "engines": {
+    "node": "^14.17.0 || ^16.13.0 || >=18.0.0"
+  },
+  "templateOSS": {
+    "//@npmcli/template-oss": "This file is partially managed by @npmcli/template-oss. Edits may be overwritten.",
+    "version": "4.6.0"
+  }
 }
