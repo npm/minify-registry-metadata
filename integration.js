@@ -1,4 +1,4 @@
-
+const assert = require('assert')
 var changes = require('concurrent-couch-follower')
 var normalize = require('normalize-registry-metadata')
 var minify = require('./')
@@ -47,7 +47,7 @@ changes(function(data,done){
     //console.log(diff+'\t'+saved)
   }
 
-  if(data.seq >= 997485) {
+  if(getIntegerSequence(data.seq) >= 997485) {
 
     console.log('finished')
     report()
@@ -69,4 +69,11 @@ function report(){
     console.log('min doc size:',size)
     var total = Date.now()-start 
     console.log('elapsed: ',total,"\n")
+}
+
+function getIntegerSequence (sequence) {
+  const sequenceNumber = typeof sequence === 'string' ? sequence.split('-')[0] : sequence
+  const intSequence = parseInt(sequenceNumber, 10)
+  assert(intSequence >= 0, `Received invalid sequence from couchdb: ${sequence}`)
+  return intSequence
 }
