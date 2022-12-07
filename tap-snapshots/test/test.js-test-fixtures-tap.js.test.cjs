@@ -70,7 +70,28 @@ Object {
       "dist": Object {
         "fileCount": 4057,
         "integrity": "sha512-GsjAtKf9WKe2Cj5/5OckVdwyz4kv4pjlidDPpNY32ikR6rkBnicU/gxwckXvV/pQ5uTDx+od6XqmVAB7ityXWg==",
-        "npm-signature": "-----BEGIN PGP SIGNATURE-----\\r\\nVersion: OpenPGP.js v3.0.4\\r\\nComment: https://openpgpjs.org\\r\\n\\r\\nwsFcBAEBCAAQBQJd1uFuCRA9TVsSAnZWagAAPLUP/2qtnbVYG0FO7skKvf2x\\nNPwCqx26cBthO3dcAcdWrMqDUOZ47ehiQY9MDq+uFRQXex1qm+9cLGs0iAvd\\nai1Sl2hbeXsz1sgtou3Un+xciLDz3GeGe7fJxff5/7dBU1eFNWxb8vuj/RLp\\noVeBv2ldGlbwoNlmLVPwYRBxJLqjSrIlxb0WqjhiIK0qORjq4FWfFOa1Chsv\\nRSABc4rtxJb+j73ZKXci57+FluyyZ3SDGhBRRmG9eg6WpGH13HW/G4OC46Yd\\n8P7BSoVjQyUUy2YtV93pH+4aSgCI+fZgarJHErkpe9msV40rwIhaAueJ+FuG\\nb5VddhcZfe0d2+AeWfEZTOxhUZ73bpgzJt7m5mvJu0GINn50srvBeo8aX28w\\nFS9RKstpDt/bltKxU/SnPwDGeMw6REVtH1y/zp+z8KOyssna5MWpKjkJWtd+\\neeXP2M/F9BZR/DSW8qFa9leyUbvAmEvdgdmRf4Rat2NTxhZg9tEQBgiQL7CE\\n4eIjjXa+zHYrhRXo58wh40AeBzokz9uGuUsO0q3Ng1QryRKh/aAJdZYwLjQn\\n2+2YFpM8I48ZvncX5Lgk02l9hUCImjhHF39beYdepxd7XjzCEn8iJOT9QVKs\\nyExkn3vT/sJGBxhu+kP9ohf7uGxP5vA/2DKNl1JpytRcx1Y/4MmjJqeI5cFk\\nnLh0\\r\\n=UyOf\\r\\n-----END PGP SIGNATURE-----\\r\\n",
+        "npm-signature": String(
+          -----BEGIN PGP SIGNATURE-----\\r
+          Version: OpenPGP.js v3.0.4\\r
+          Comment: https://openpgpjs.org\\r
+          \\r
+          wsFcBAEBCAAQBQJd1uFuCRA9TVsSAnZWagAAPLUP/2qtnbVYG0FO7skKvf2x
+          NPwCqx26cBthO3dcAcdWrMqDUOZ47ehiQY9MDq+uFRQXex1qm+9cLGs0iAvd
+          ai1Sl2hbeXsz1sgtou3Un+xciLDz3GeGe7fJxff5/7dBU1eFNWxb8vuj/RLp
+          oVeBv2ldGlbwoNlmLVPwYRBxJLqjSrIlxb0WqjhiIK0qORjq4FWfFOa1Chsv
+          RSABc4rtxJb+j73ZKXci57+FluyyZ3SDGhBRRmG9eg6WpGH13HW/G4OC46Yd
+          8P7BSoVjQyUUy2YtV93pH+4aSgCI+fZgarJHErkpe9msV40rwIhaAueJ+FuG
+          b5VddhcZfe0d2+AeWfEZTOxhUZ73bpgzJt7m5mvJu0GINn50srvBeo8aX28w
+          FS9RKstpDt/bltKxU/SnPwDGeMw6REVtH1y/zp+z8KOyssna5MWpKjkJWtd+
+          eeXP2M/F9BZR/DSW8qFa9leyUbvAmEvdgdmRf4Rat2NTxhZg9tEQBgiQL7CE
+          4eIjjXa+zHYrhRXo58wh40AeBzokz9uGuUsO0q3Ng1QryRKh/aAJdZYwLjQn
+          2+2YFpM8I48ZvncX5Lgk02l9hUCImjhHF39beYdepxd7XjzCEn8iJOT9QVKs
+          yExkn3vT/sJGBxhu+kP9ohf7uGxP5vA/2DKNl1JpytRcx1Y/4MmjJqeI5cFk
+          nLh0\\r
+          =UyOf\\r
+          -----END PGP SIGNATURE-----\\r
+          
+        ),
         "shasum": "4e88d5964decec69236cb302e6ce4b2691d56fb7",
         "tarball": "https://registry.npmjs.org/tap/-/tap-14.10.1.tgz",
         "unpackedSize": 13755449,
