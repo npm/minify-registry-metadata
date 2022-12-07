@@ -1,8 +1,26 @@
 const t = require('tap')
 const minify = require('../')
-const excluded = require('../excluded.js')
 const fs = require('fs')
 const path = require('path')
+const excluded = function (min, doc, objCount, versionCount) {
+  count(min, doc, objCount)
+  var versions = Object.keys(doc.versions || {})
+  for (let i = 0; i < versions.length; ++i) {
+    count(min.versions[versions[i]], doc.versions[versions[i]], versionCount)
+  }
+}
+
+function count (o, orig, countingObject) {
+  var keys = Object.keys(orig)
+  for (let i = 0; i < keys.length; ++i) {
+    if (o[keys[i]] === undefined) {
+      if (!countingObject[keys[i]]) {
+        countingObject[keys[i]] = 0
+      }
+      countingObject[keys[i]]++
+    }
+  }
+}
 
 const runTest = fixture => t => {
   const raw = require(path.resolve(fixture))
@@ -21,7 +39,7 @@ const runTest = fixture => t => {
 if (process.argv[2]) {
   runTest(process.argv[2])(t)
 } else {
-  const fixtures = fs.readdirSync(__dirname + '/fixtures')
+  const fixtures = fs.readdirSync(path.join(__dirname, '/fixtures'))
     .filter(f => /\.js$/.test(f))
     .map(f => 'test/fixtures/' + f)
   t.plan(fixtures.length)
