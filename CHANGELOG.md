@@ -4,7 +4,7 @@
 
 ### ⚠️ BREAKING CHANGES
 
-* This module now has an engines field of
+* This module now has an engines field of `"node": "^14.17.0 || ^16.13.0 || >=18.0.0"`
 
 ### Bug Fixes
 
