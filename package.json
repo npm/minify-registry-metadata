@@ -1,7 +1,7 @@
 {
   "name": "minify-registry-metadata",
   "description": "minimal regsitry packuments. :corgi:",
-  "version": "2.2.0",
+  "version": "3.0.0",
   "devDependencies": {
     "@npmcli/eslint-config": "^4.0.1",
     "@npmcli/template-oss": "4.10.0",
