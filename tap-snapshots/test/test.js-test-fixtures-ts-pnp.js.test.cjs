@@ -12,6 +12,17 @@ Object {
   },
   "modified": "2019-08-28T10:07:19.831Z",
   "name": "ts-pnp",
+  "time": Object {
+    "1.0.0": Object {},
+    "1.0.1": Object {},
+    "1.1.0": Object {},
+    "1.1.1": Object {},
+    "1.1.2": Object {},
+    "1.1.3": Object {},
+    "1.1.4": Object {},
+    "created": Object {},
+    "modified": Object {},
+  },
   "versions": Object {
     "1.0.0": Object {
       "dist": Object {
@@ -326,7 +337,6 @@ Object {
   "readme": 1,
   "readmeFilename": 1,
   "repository": 1,
-  "time": 1,
 }
 `
 
