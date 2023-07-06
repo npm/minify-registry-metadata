@@ -4,7 +4,7 @@
   "version": "3.0.0",
   "devDependencies": {
     "@npmcli/eslint-config": "^4.0.1",
-    "@npmcli/template-oss": "4.15.1",
+    "@npmcli/template-oss": "4.17.0",
     "changes-stream": "^2.2.0",
     "concurrent-couch-follower": "^1.2.0",
     "normalize-registry-metadata": "^1.1.2",
