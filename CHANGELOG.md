@@ -1,5 +1,14 @@
 # Changelog
 
+## [5.0.0](https://github.com/npm/minify-registry-metadata/compare/v4.0.0...v5.0.0) (2025-10-22)
+### ⚠️ BREAKING CHANGES
+* `minify-registry-metadata` now supports node `^20.17.0 || >=22.9.0`
+### Bug Fixes
+* [`a696562`](https://github.com/npm/minify-registry-metadata/commit/a696562701d12da8425d6dcb3afa6d1ac6f4b57e) [#79](https://github.com/npm/minify-registry-metadata/pull/79) align to npm 11 node engine range (#79) (@owlstronaut)
+### Chores
+* [`a766123`](https://github.com/npm/minify-registry-metadata/commit/a76612319af2881fb6a8b2935d83dec1a99706bb) [#73](https://github.com/npm/minify-registry-metadata/pull/73) postinstall workflow updates (#73) (@owlstronaut)
+* [`c43dddb`](https://github.com/npm/minify-registry-metadata/commit/c43dddb1cb195ccef6a6978515c81e4e3ef947d6) [#78](https://github.com/npm/minify-registry-metadata/pull/78) bump @npmcli/template-oss from 4.26.0 to 4.27.1 (#78) (@dependabot[bot], @npm-cli-bot)
+
 ## [4.0.0](https://github.com/npm/minify-registry-metadata/compare/v3.0.0...v4.0.0) (2024-09-24)
 ### ⚠️ BREAKING CHANGES
 * `minify-registry-metadata` now supports node `^18.17.0 || >=20.5.0`
