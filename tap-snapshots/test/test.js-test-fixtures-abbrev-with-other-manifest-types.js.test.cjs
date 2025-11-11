@@ -28,6 +28,21 @@ Object {
       },
     },
   },
+  "time": Object {
+    "1.0.1": Object {},
+    "1.0.2": Object {},
+    "1.0.3": Object {},
+    "1.0.3-1": Object {},
+    "1.0.4": Object {},
+    "1.0.5": Object {},
+    "1.0.6": Object {},
+    "1.0.7": Object {},
+    "1.0.9": Object {},
+    "1.1.0": Object {},
+    "1.1.1": Object {},
+    "created": Object {},
+    "modified": Object {},
+  },
   "versions": Object {
     "1.0.4": Object {
       "dist": Object {
@@ -116,7 +131,6 @@ Object {
   "readmeFilename": 1,
   "repository": 1,
   "staging": 1,
-  "time": 1,
   "users": 1,
 }
 `
