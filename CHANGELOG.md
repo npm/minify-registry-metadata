@@ -1,5 +1,17 @@
 # Changelog
 
+## [6.0.0](https://github.com/npm/minify-registry-metadata/compare/v5.0.0...v6.0.0) (2026-05-08)
+### ⚠️ BREAKING CHANGES
+* `minify-registry-metadata` now supports node `^22.22.2 || ^24.15.0 || >=26.0.0`
+* template-oss-apply
+### Features
+* [`7e221de`](https://github.com/npm/minify-registry-metadata/commit/7e221dece0b9e21678dd954caffaddd192aed85e) [#88](https://github.com/npm/minify-registry-metadata/pull/88) bump to new node engine range (@owlstronaut)
+* [`6c46f31`](https://github.com/npm/minify-registry-metadata/commit/6c46f3125e9c2b4ac9b6bc9b5c593a4b6641aa63) [#88](https://github.com/npm/minify-registry-metadata/pull/88) template-oss-apply (@owlstronaut)
+### Chores
+* [`54fd81b`](https://github.com/npm/minify-registry-metadata/commit/54fd81b6c22f6069de5b9f83d92c526684249a4a) [#88](https://github.com/npm/minify-registry-metadata/pull/88) template-oss-apply (@owlstronaut)
+* [`789d8c6`](https://github.com/npm/minify-registry-metadata/commit/789d8c6b44c99c7cdc55843c722a522b09ff8882) bump @npmcli/eslint-config from 5.1.0 to 6.0.0 (#81) (@dependabot[bot])
+* [`79abf60`](https://github.com/npm/minify-registry-metadata/commit/79abf60e81ff01551df694c24c380348df61cebd) [#85](https://github.com/npm/minify-registry-metadata/pull/85) bump @npmcli/template-oss from 4.28.1 to 4.29.0 (#85) (@dependabot[bot], @npm-cli-bot)
+
 ## [5.0.0](https://github.com/npm/minify-registry-metadata/compare/v4.0.0...v5.0.0) (2025-10-22)
 ### ⚠️ BREAKING CHANGES
 * `minify-registry-metadata` now supports node `^20.17.0 || >=22.9.0`
