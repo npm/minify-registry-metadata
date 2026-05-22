@@ -3,7 +3,7 @@
   "description": "minimal regsitry packuments. :corgi:",
   "version": "6.0.0",
   "devDependencies": {
-    "@npmcli/eslint-config": "^6.0.0",
+    "@npmcli/eslint-config": "^7.0.0",
     "@npmcli/template-oss": "5.1.0",
     "changes-stream": "^2.2.0",
     "concurrent-couch-follower": "^1.2.0",
